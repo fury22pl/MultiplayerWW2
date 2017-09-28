@@ -47,11 +47,11 @@
             "value": "0"
         },
         {
-            "name": "cl_serveraddr",
+            "name": "r_serveraddr",
             "value": "194.183.32.67"
         },
         {
-            "name": "cl_serverport",
+            "name": "r_serverport",
             "value": "64087"
         },
 		{
