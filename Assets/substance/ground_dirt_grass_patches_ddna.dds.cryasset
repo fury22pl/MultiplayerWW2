@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="7316b622-5cbc-4378-091b-b75c15631d52" source="ground_dirt_grass_patches.crysub">
+ <Files>
+  <File path="ground_dirt_grass_patches_ddna.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

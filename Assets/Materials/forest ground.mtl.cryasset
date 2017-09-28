@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Material" guid="7ddf26d0-9b0b-fe54-58e8-4220fca08957">
+ <Files>
+  <File path="forest ground.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">5</Detail>
+ </Details>
+ <Dependencies>
+  <Path>substance/mud_diff.dds</Path>
+  <Path>substance/mud_height.dds</Path>
+  <Path>substance/mud_spec.dds</Path>
+  <Path>substance/mud_ddna.dds</Path>
+  <Path>substance/mud_height.dds</Path>
+ </Dependencies>
+</AssetMetadata>

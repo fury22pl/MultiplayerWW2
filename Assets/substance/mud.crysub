@@ -1,0 +1,109 @@
+{
+	"graph": "Procedural_Forest_Mud",
+	"archive": "substance/Mud.sbsar",
+	"outputSizeX": 11,
+	"uniform": true,
+	"randomSeed": 0,
+	"Base_Color_Lightness": 0.51,
+	"Foot_Print_Disorder": 40.05,
+	"Foot_Prints_On_Off": 1,
+	"Foot_Print_Scale": 4467.6499,
+	"Leafs_On_Off": 1,
+	"Leaf_Color_Variation": 0.48,
+	"Leaf_Distorter": 716.73999,
+	"Rocks_Disorder": 29.25,
+	"Rocks_scale": 10.0,
+	"Rocks_On_Off": 1,
+	"Rocks_Amount_X": 36,
+	"Rocks_amount_Y": 36,
+	"Rocks_Lightness": 0.57,
+	"amount": 1,
+	"Roots_On_Off": 1,
+	"Roots_Disturbance": 2.54,
+	"Root_bend": 32.0,
+	"Root_imperfections": 0.25,
+	"Roots_roughness": 0.5,
+	"Root_Lightness": 0.47,
+	"Water_amount": 0.52,
+	"Water_Clearnes": 2,
+	"outputs": [
+		{
+			"enabled": true,
+			"name": "diff",
+			"preset": "Albedo",
+			"resolution": "original",
+			"sourceoutputs": [ "basecolor" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "spec",
+			"preset": "Reflectance",
+			"resolution": "quarter",
+			"sourceoutputs": [ "roughness" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "ddna",
+			"preset": "NormalsWithSmoothness",
+			"resolution": "original",
+			"sourceoutputs": [ "normal" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": -1 }
+			]
+		},
+		{
+			"enabled": false,
+			"name": "ddn",
+			"preset": "Normals",
+			"resolution": "original",
+			"sourceoutputs": [ "normal" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "height",
+			"preset": "Displacement",
+			"resolution": "original",
+			"sourceoutputs": [ "Height" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": -1 },
+				{ "channel": -1, "output": -1 },
+				{ "channel": 0, "output": 0 }
+			]
+		},
+		{
+			"enabled": false,
+			"name": "emit",
+			"preset": "Albedo",
+			"resolution": "original",
+			"sourceoutputs": [ "metallic" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		}
+	]
+}

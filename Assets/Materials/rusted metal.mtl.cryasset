@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Material" guid="2420e771-baa2-1eac-7031-6279bc4451a7">
+ <Files>
+  <File path="rusted metal.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">5</Detail>
+ </Details>
+ <Dependencies>
+  <Path>substance/rusted_painted_metal_diff.dds</Path>
+  <Path>substance/rusted_painted_metal_ddn.dds</Path>
+  <Path>substance/rusted_painted_metal_spec.dds</Path>
+  <Path>substance/rusted_painted_metal_ddna.dds</Path>
+  <Path>substance/rusted_painted_metal_height.dds</Path>
+ </Dependencies>
+</AssetMetadata>

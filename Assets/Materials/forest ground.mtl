@@ -1,0 +1,10 @@
+<Material MtlFlags="526336" Shader="Terrain.Layer" GenMask="240400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%TEMP_TERRAIN" SurfaceType="mat_default" MatTemplate="" Diffuse="0.11443538,0.11443538,0.11443538" Specular="0.017641956,0.017641956,0.017641956" Opacity="1" Shininess="22" CloakAmount="0" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="substance/mud_diff.dds"/>
+  <Texture Map="Bumpmap" File="substance/mud_height.dds"/>
+  <Texture Map="Specular" File="substance/mud_spec.dds"/>
+  <Texture Map="Detail" File="substance/mud_ddna.dds"/>
+  <Texture Map="Heightmap" File="substance/mud_height.dds"/>
+ </Textures>
+ <PublicParams BlendFalloff="28.700001" DetailTextureStrength="2" DetailTextureHighPassRange="15" BlendFactor="6.9000001" NormalMapBumpiness="0.62400001"/>
+</Material>

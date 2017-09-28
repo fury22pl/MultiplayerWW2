@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="2d85e16e-7a3c-2795-1a13-e00528591ffb" source="mud.crysub">
+ <Files>
+  <File path="mud_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>

@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="SubstanceInstance" guid="891d7e5e-8767-6ff9-f5fc-30642a8faac8" source="">
+ <Files>
+  <File path="rusted_painted_metal.crysub"/>
+ </Files>
+ <Dependencies>
+  <Path>./rusted_painted_metal.sbsar</Path>
+ </Dependencies>
+</AssetMetadata>

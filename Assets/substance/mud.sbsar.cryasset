@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="SubstanceDefinition" guid="ca3c3756-516d-520d-78f6-4429e0ee1514" source="">
+ <Files>
+  <File path="Mud.sbsar"/>
+ </Files>
+ <Details>
+  <Detail name="SubstanceCache">&lt;cache CryXmlVersion=&quot;2&quot;&gt;&#10; &lt;graphs&gt;&#10;  &lt;element key=&quot;Procedural_Forest_Mud&quot;&gt;&#10;   &lt;value name=&quot;Procedural_Forest_Mud&quot; resolutionX=&quot;10&quot; resolutionY=&quot;10&quot;&gt;&#10;    &lt;outputs&gt;&#10;     &lt;element element=&quot;basecolor&quot;/&gt;&#10;     &lt;element element=&quot;normal&quot;/&gt;&#10;     &lt;element element=&quot;roughness&quot;/&gt;&#10;     &lt;element element=&quot;metallic&quot;/&gt;&#10;     &lt;element element=&quot;AO&quot;/&gt;&#10;     &lt;element element=&quot;Height&quot;/&gt;&#10;    &lt;/outputs&gt;&#10;    &lt;outputs_configuration /&gt;&#10;   &lt;/value&gt;&#10;  &lt;/element&gt;&#10; &lt;/graphs&gt;&#10;&lt;/cache&gt;&#10;</Detail>
+ </Details>
+</AssetMetadata>

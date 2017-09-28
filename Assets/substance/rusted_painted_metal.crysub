@@ -1,0 +1,111 @@
+{
+	"graph": "Rusted Painted Metal",
+	"archive": "substance/rusted_painted_metal.sbsar",
+	"outputSizeX": 11,
+	"uniform": true,
+	"randomSeed": 0,
+	"color_rust": { "r": 0.39655, "g": 0.26201, "b": 0.19922, "a": 1.0 },
+	"color_paint": { "r": 0.23956, "g": 0.24491, "b": 0.29744, "a": 1.0 },
+	"variation": 0.5,
+	"rust_amount": 0.65,
+	"rust_spread": 0.2,
+	"wetness": 0.0,
+	"roughness_rust": 0.7,
+	"roughness_paint": 0.45,
+	"channel_diffuse": 0,
+	"channel_basecolor": 1,
+	"channel_normal": 1,
+	"channel_specular": 0,
+	"channel_glossiness": 0,
+	"channel_roughness": 1,
+	"channel_metallic": 1,
+	"channel_height": 1,
+	"luminosity": 0.5,
+	"contrast": 0.0,
+	"hue_shift": 0.0,
+	"saturation": 0.5,
+	"normal_intensity": 0.5,
+	"normal_format": "DirectX",
+	"height_range": 0.5,
+	"height_position": 0.5,
+	"outputs": [
+		{
+			"enabled": true,
+			"name": "diff",
+			"preset": "Albedo",
+			"resolution": "original",
+			"sourceoutputs": [ "diffuse" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "spec",
+			"preset": "Reflectance",
+			"resolution": "quarter",
+			"sourceoutputs": [ "specular" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "ddna",
+			"preset": "NormalsWithSmoothness",
+			"resolution": "original",
+			"sourceoutputs": [ "normal", "glossiness" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": 0, "output": 1 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "ddn",
+			"preset": "Normals",
+			"resolution": "original",
+			"sourceoutputs": [ "normal" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		},
+		{
+			"enabled": true,
+			"name": "height",
+			"preset": "Displacement",
+			"resolution": "original",
+			"sourceoutputs": [ "height", "metallic", "roughness" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 1 },
+				{ "channel": -1, "output": 2 },
+				{ "channel": 0, "output": 0 }
+			]
+		},
+		{
+			"enabled": false,
+			"name": "emit",
+			"preset": "Albedo",
+			"resolution": "original",
+			"sourceoutputs": [ "basecolor" ],
+			"mapping": [
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 },
+				{ "channel": -1, "output": 0 }
+			]
+		}
+	]
+}

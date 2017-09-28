@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="SubstanceInstance" guid="70aab38a-37b9-a417-1bbf-4935da9d372c" source="">
+ <Files>
+  <File path="ground_dirt_grass_patches.crysub"/>
+ </Files>
+ <Dependencies>
+  <Path>./ground_dirt_grass_patches.sbsar</Path>
+ </Dependencies>
+</AssetMetadata>

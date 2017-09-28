@@ -1,0 +1,10 @@
+<Material MtlFlags="526336" Shader="Terrain.Layer" GenMask="240400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%TEMP_TERRAIN" SurfaceType="mat_default" MatTemplate="" Diffuse="0.25415212,0.25415212,0.25415212" Specular="0,0,0" Emittance="0.25415212,0.25415212,0.25415212,0" Opacity="1" Shininess="10" AlphaTest="0.19" CloakAmount="0" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="substance/ground_dirt_grass_patches_diff.dds"/>
+  <Texture Map="Bumpmap" File="substance/ground_dirt_grass_patches_height.dds"/>
+  <Texture Map="Specular" File="substance/ground_dirt_grass_patches_spec.dds"/>
+  <Texture Map="Detail" File="substance/ground_dirt_grass_patches_ddna.dds"/>
+  <Texture Map="Heightmap" File="substance/ground_dirt_grass_patches_height.dds"/>
+ </Textures>
+ <PublicParams BlendFalloff="1" DetailTextureStrength="2" DetailTextureHighPassRange="15" BlendFactor="0" NormalMapBumpiness="0.62400001"/>
+</Material>

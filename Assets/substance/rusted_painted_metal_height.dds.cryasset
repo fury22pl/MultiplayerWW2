@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="f26f7ef7-ec9d-75f8-16b9-91a3a52d234e" source="rusted_painted_metal.crysub">
+ <Files>
+  <File path="rusted_painted_metal_height.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

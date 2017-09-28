@@ -1,0 +1,31 @@
+<AssetMetadata version="0" type="Level" guid="e6321bc3-7cfc-f240-9198-9809b285a90f" source="">
+ <Files>
+  <File path="testing/testing.cry"/>
+ </Files>
+ <Dependencies>
+  <Path>%engine%/config/defaultscripts/compressionpolicy.xml</Path>
+  <Path>%engine%/engineassets/codecoverage/hit.dds</Path>
+  <Path>%engine%/engineassets/codecoverage/pbar.dds</Path>
+  <Path>%engine%/engineassets/codecoverage/unexpected.dds</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>materials/forest ground.mtl</Path>
+  <Path>materials/ground.mtl</Path>
+  <Path>materials/rusted metal.mtl</Path>
+  <Path>objects/characters/samplecharacter/firstperson.cdf</Path>
+  <Path>objects/characters/samplecharacter/motusbodyheadless.skin</Path>
+  <Path>objects/characters/samplecharacter/skelproxy.chr</Path>
+  <Path>objects/weapons/sampleweapon/defaultweapon.cgf</Path>
+  <Path>scripts/network/compressionpolicy.xml</Path>
+  <Path>substance/ground_dirt_grass_patches_diff.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_height.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_spec.dds</Path>
+  <Path>substance/mud_ddna.dds</Path>
+  <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.cgf</Path>
+  <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.mtl</Path>
+  <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower_lod1.cgf</Path>
+  <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower_lod2.cgf</Path>
+ </Dependencies>
+</AssetMetadata>

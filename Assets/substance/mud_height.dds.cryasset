@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="be406edb-fa79-9a83-a89e-323aa030bb61" source="mud.crysub">
+ <Files>
+  <File path="mud_height.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

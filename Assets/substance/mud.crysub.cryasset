@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="SubstanceInstance" guid="6c39f891-8321-2a50-f186-7adc33a87088" source="">
+ <Files>
+  <File path="mud.crysub"/>
+ </Files>
+ <Dependencies>
+  <Path>./Mud.sbsar</Path>
+ </Dependencies>
+</AssetMetadata>

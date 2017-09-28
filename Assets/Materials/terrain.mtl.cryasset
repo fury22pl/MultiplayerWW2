@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Material" guid="d8ae1369-c746-e0c7-1605-c4c52da0b853">
+ <Files>
+  <File path="terrain.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">5</Detail>
+ </Details>
+ <Dependencies>
+  <Path>substance/ground_dirt_grass_patches_diff.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_height.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_spec.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_ddna.dds</Path>
+  <Path>substance/ground_dirt_grass_patches_height.dds</Path>
+ </Dependencies>
+</AssetMetadata>
