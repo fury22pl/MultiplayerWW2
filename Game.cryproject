@@ -46,6 +46,10 @@
             "name": "e_waterocean",
             "value": "0"
         },
+		{
+            "name": "r_fullscreen",
+            "value": "1"
+        },
         {
             "name": "cl_serveraddr",
             "value": "194.183.32.67"
