@@ -11,7 +11,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="db15601d-08ce-37a6-ff04-85eba8704401" Name="items::weapons::ak47-3" Pos="1018.9391,1003.3218,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="80d1267a-b435-0dc3-426a-6a7c946fd2a0" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="8db5af4a-530f-1df3-20c4-e9551d550e9c" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -23,7 +23,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="8708d6fc-2e0e-3dfa-4422-0574bb8fcd23" Name="items::weapons::ak47-1" Pos="1018.4823,1008.2377,32.539528" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="fd3a6c2a-b452-8c01-d325-2cb4a6f56b42" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="f17261c9-92f6-8095-698b-8608163a1d1c" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -337,7 +337,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="6dfc5aa1-171d-bafa-1fd5-83dcbc4549ad" Name="items::weapons::ak47-2" Pos="1020.9972,1005.3279,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="c00d45dd-4d45-d193-3af2-89963f2169b0" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="ca207615-291e-edb8-e06d-3f2764ef271c" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -349,7 +349,7 @@
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="87ce07bc-6803-bd00-1003-0ce176780238" Name="Entity-3" Pos="1017.953,1022.3223,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="41316132-8a1e-4073-b0cd-a242fd3d2e90" TypeName="CSpawnPointComponent" GUID="b2660d46-b812-f2c0-0b3d-1fcbf6103e3f" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="41316132-8a1e-4073-b0cd-a242fd3d2e90" TypeName="CSpawnPointComponent" GUID="d71cef7a-d1d3-ddbb-c334-36de13a1587e" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>

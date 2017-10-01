@@ -3,7 +3,6 @@
   <File path="testing/testing.cry"/>
  </Files>
  <Dependencies>
-  <Path>%editor%/materials/crydesigner_selection.mtl</Path>
   <Path>%engine%/engineassets/codecoverage/hit.dds</Path>
   <Path>%engine%/engineassets/codecoverage/pbar.dds</Path>
   <Path>%engine%/engineassets/codecoverage/unexpected.dds</Path>
@@ -23,7 +22,6 @@
   <Path>%engine%/engineassets/objects/default.cgf</Path>
   <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
   <Path>%engine%/engineassets/texturemsg/defaultsolids.mtl</Path>
-  <Path>%engine%/engineassets/texturemsg/orange_for_designer.dds</Path>
   <Path>%engine%/engineassets/textures/defaults/16_12.dds</Path>
   <Path>%engine%/engineassets/textures/defaults/16_34.dds</Path>
   <Path>%engine%/engineassets/textures/defaults/16_5.dds</Path>

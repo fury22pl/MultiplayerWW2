@@ -46,11 +46,11 @@
             "name": "e_waterocean",
             "value": "0"
         },
-	        {
+        {
             "name": "cl_serveraddr",
             "value": "194.183.32.67"
         },
-	        {
+        {
             "name": "cl_serverport",
             "value": "64087"
         },
