@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Character" guid="2afe00ce-6f5c-3cf4-e443-c630cfaeaeef">
+ <Files>
+  <File path="ak47.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>Items/Weapons/AK47/AK47.chr</Path>
+  <Path>Items/Weapons/AK47/AK47SkelMat.mtl</Path>
+  <Path>Items/Weapons/AK47/ak47.cgf</Path>
+  <Path>Items/Weapons/AK47/AK47Mat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

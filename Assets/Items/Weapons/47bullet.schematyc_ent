@@ -1,0 +1,83 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="9281bed6-9ec3-44d9-a8d3-a1a6eaecaf50" scope="">
+ <root elementType="Class" guid="02467b72-9edd-42c0-a01a-d1d09e17246d" name="47Bullet">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="7595c137-557c-42ed-abd4-fa961ccc1302" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="ab21e2b4-7f74-47ba-a2f2-23b2a34aa688" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="ab21e2b4-7f74-47ba-a2f2-23b2a34aa688">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="bbb9272e-1647-49f6-9fd9-7f8a47a1bfcf" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="843e7947-7ee0-41a4-962c-a5ebafca1686" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="843e7947-7ee0-41a4-962c-a5ebafca1686" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="73f4725c-8754-44e4-8eb7-53a52b98ed57" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="73f4725c-8754-44e4-8eb7-53a52b98ed57" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+       <element key="9ef1feac-2a63-466d-8c78-6644bf415813" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="9ef1feac-2a63-466d-8c78-6644bf415813" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="7be6786c-3946-499e-8ecc-3273b4955e26" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="e745744c-1d64-47c9-9caa-4094b53d3408" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+   <element elementType="ComponentInstance" guid="bce323e2-2be3-4e2d-8774-a7c719bbe448" name="Bullet" accessor="Private" typeGUID="59fa9ad8-a4db-444d-8663-a6c646c2799a">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <BulletProperties BulletMesh="Items/Bullets/bullet.cgf" BulletMass="0.16" BulletSize="0.30000001" BulletSpeed="360"/>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+  </children>
+ </root>
+</CrySchematyc>

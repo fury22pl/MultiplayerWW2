@@ -1,0 +1,67 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="005ea98d-3b3e-48b2-924b-a259802edd56" scope="">
+ <root elementType="Class" guid="1ede345d-e06f-4c3e-b447-b0eb929fb87b" name="47Pack">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="b782baed-8e79-4ba1-a3ad-6fd84b45e429" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="c7f3d6e2-06dc-4b90-b113-e6bbd4d0a955" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="c7f3d6e2-06dc-4b90-b113-e6bbd4d0a955">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="66c0ca83-a5c2-4b7e-a8b3-27836436597b" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="81de8781-5c8f-40d1-b9c2-7b9c23c302aa" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="81de8781-5c8f-40d1-b9c2-7b9c23c302aa" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+       <element key="4005a214-92dc-4155-862f-c33f058d3eb1" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="4005a214-92dc-4155-862f-c33f058d3eb1" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="4cc36bc1-8205-4978-89bb-2069e1f17c36" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="4cc36bc1-8205-4978-89bb-2069e1f17c36" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="f610c6aa-e2aa-4861-a563-19e2ee9b338a" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="d9205969-a3bd-4f2d-9b05-ee5163a0b98a" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+  </children>
+ </root>
+</CrySchematyc>

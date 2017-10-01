@@ -1,0 +1,91 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="e9e8d68b-2bcf-40a2-861f-ee4771c8c485" scope="">
+ <root elementType="Class" guid="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" name="AK47">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="ee47450a-3142-482d-b3cd-160f89fe381e" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="2a1bcff9-a054-453e-be76-8b6e059c1b05" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="2a1bcff9-a054-453e-be76-8b6e059c1b05">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="b42d4a68-c8b6-4eb0-b610-1d8c4c25813c" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="79e2de00-5f4e-433b-92da-dd63ebb2d69e" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="79e2de00-5f4e-433b-92da-dd63ebb2d69e" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="4488e332-d7df-4538-aa78-646ae8ff1f21" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="4488e332-d7df-4538-aa78-646ae8ff1f21" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+       <element key="de1a13af-9fc1-4ce8-ae23-46b2e605d5b6" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="de1a13af-9fc1-4ce8-ae23-46b2e605d5b6" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="b7c31a49-3cf1-4223-b66a-88730989b914" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="d2623097-2b89-4f59-8cb5-e02c029d2502" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+   <element elementType="ComponentInstance" guid="dbb50562-1323-4714-9773-79837d693676" name="Weapon" accessor="Private" typeGUID="fdda1a5d-7360-4b2f-ac2f-44d71aa48303">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <ItemProperties Pickable="true">
+      <RenderProperties GeometryPath="Items/Weapons/AK47/ak47.cgf" CharacterPath="Items/Weapons/AK47/ak47.cdf" MaterialPath="Items/Weapons/AK47/AK47Mat.mtl"/>
+      <PhysicProperties Mass="1"/>
+     </ItemProperties>
+     <WeaponProperties MagazineName="schematyc::items::weapons::47mag" ReloadSpeed="4000" FireMode="Auto" SerieMax="0">
+      <FireTrigger triggerName="Shot"/>
+      <DrrFireTrigger triggerName="DryShot"/>
+      <ReloadTrigger triggerName="Reload"/>
+     </WeaponProperties>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+  </children>
+ </root>
+</CrySchematyc>

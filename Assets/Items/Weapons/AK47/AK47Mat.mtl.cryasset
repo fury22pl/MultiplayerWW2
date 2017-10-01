@@ -1,0 +1,17 @@
+<AssetMetadata version="0" type="Material" guid="e6feb937-cfcd-bb91-bacc-6f9d7ca0154f">
+ <Files>
+  <File path="AK47Mat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">6</Detail>
+  <Detail name="textureCount">6</Detail>
+ </Details>
+ <Dependencies>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+  <Path>EngineAssets/Textures/grey.dds</Path>
+ </Dependencies>
+</AssetMetadata>

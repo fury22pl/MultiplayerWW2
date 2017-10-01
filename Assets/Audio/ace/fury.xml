@@ -1,0 +1,17 @@
+<ATLConfig atl_name="fury" atl_version="2">
+ <AudioTriggers>
+  <ATLTrigger atl_name="Shot" atl_radius="100">
+   <SDLMixerEvent sdl_name="w_rifle_fire_single_fp.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="-14" loop_count="1"/>
+   <SDLMixerEvent sdl_name="w_rifle_fire_tail.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="-14" loop_count="1"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="Reload" atl_radius="100">
+   <SDLMixerEvent sdl_name="w_shotgun_reload.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="-14" loop_count="1"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="DryShot" atl_radius="100">
+   <SDLMixerEvent sdl_name="w_rifle_dry_fire.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="-14" loop_count="1"/>
+  </ATLTrigger>
+ </AudioTriggers>
+ <EditorData>
+  <Folders />
+ </EditorData>
+</ATLConfig>

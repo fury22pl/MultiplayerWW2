@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="afe7f977-958e-a4b5-577c-e1ffafa455c3">
+ <Files>
+  <File path="fury.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">ATLConfig</Detail>
+ </Details>
+</AssetMetadata>

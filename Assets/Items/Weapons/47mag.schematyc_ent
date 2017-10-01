@@ -1,0 +1,87 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="b6f17c2e-099c-4163-a1ac-d8be7593b1b4" scope="">
+ <root elementType="Class" guid="30ada1f2-0729-4f4a-82cf-ffce8f658165" name="47Mag">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="b20d00b2-b53c-417d-bbc7-b91e5879402c" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="daa44e94-139b-4405-a561-32e8eda64278" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="daa44e94-139b-4405-a561-32e8eda64278">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="8ca4be80-6395-4b30-aace-8426a18eee35" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="532e9595-90de-4716-b0d7-ac47b51a63e4" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="532e9595-90de-4716-b0d7-ac47b51a63e4" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+       <element key="9b7fa7e3-97a7-4850-8a58-c0eede99246f" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="9b7fa7e3-97a7-4850-8a58-c0eede99246f" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="7bf588a9-9326-4dce-b05c-5f4d0191b180" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="7bf588a9-9326-4dce-b05c-5f4d0191b180" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="4b70528d-12bd-48c8-9206-fbf1422acff6" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="834916b9-7be6-4ec9-958b-841c1a50a84b" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+   <element elementType="ComponentInstance" guid="0bd47233-35b5-429a-807d-4f1a21c97420" name="Magazine" accessor="Private" typeGUID="38d4a2ae-7f32-4457-878d-5d480e7d396d">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <ItemProperties Pickable="true">
+      <RenderProperties GeometryPath="Objects/Default/primitive_cube_small.cgf" CharacterPath="" MaterialPath=""/>
+      <PhysicProperties Mass="1"/>
+     </ItemProperties>
+     <MagazineProperties BulletType="schematyc::items::weapons::47bullet" WeaponName="schematyc::items::weapons::ak47" MaxAmmo="100"/>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+  </children>
+ </root>
+</CrySchematyc>

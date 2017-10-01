@@ -4,12 +4,6 @@
  </Files>
  <Dependencies>
   <Path>%editor%/materials/crydesigner_selection.mtl</Path>
-  <Path>%editor%/materials/shaderlist.xml</Path>
-  <Path>%editor%/materials/stripes.dds</Path>
-  <Path>%editor%/objects/envcube.cgf</Path>
-  <Path>%editor%/objects/envcube.mtl</Path>
-  <Path>%editor%/objects/mtlobjects.mtl</Path>
-  <Path>%editor%/objects/mtlplane.cgf</Path>
   <Path>%engine%/engineassets/codecoverage/hit.dds</Path>
   <Path>%engine%/engineassets/codecoverage/pbar.dds</Path>
   <Path>%engine%/engineassets/codecoverage/unexpected.dds</Path>
@@ -91,14 +85,13 @@
   <Path>animations/motusanims/turns/walkturn_rgt_3p.caf</Path>
   <Path>animations/motusanims/walk_bck_3p.caf</Path>
   <Path>animations/motusanims/walk_fwd_3p.caf</Path>
+  <Path>engineassets/textures/grey.dds</Path>
+  <Path>items/weapons/ak47/ak47.cgf</Path>
+  <Path>items/weapons/ak47/ak47mat.mtl</Path>
   <Path>libs/environmentpresets/testing.xml</Path>
-  <Path>libs/materialeffects/surfacetypes.xml</Path>
-  <Path>materials/bullet.mtl</Path>
   <Path>materials/forest ground.mtl</Path>
   <Path>materials/ground.mtl</Path>
-  <Path>materials/objects.mtl</Path>
   <Path>materials/rusted metal.mtl</Path>
-  <Path>materials/terrain.mtl</Path>
   <Path>objects/characters/samplecharacter/firstperson.cdf</Path>
   <Path>objects/characters/samplecharacter/mcg_ddna.dds</Path>
   <Path>objects/characters/samplecharacter/mcg_diff.dds</Path>
@@ -106,16 +99,13 @@
   <Path>objects/characters/samplecharacter/motusbodyheadless.skin</Path>
   <Path>objects/characters/samplecharacter/motusbodymat.mtl</Path>
   <Path>objects/characters/samplecharacter/skelproxy.chr</Path>
-  <Path>objects/weapons/sampleweapon/defaultweapon.cgf</Path>
-  <Path>objects/weapons/sampleweapon/defaultweapon.mtl</Path>
+  <Path>objects/default/editorprimitive.mtl</Path>
+  <Path>objects/default/primitive_cube_small.cgf</Path>
   <Path>substance/ground_dirt_grass_patches_ddna.dds</Path>
-  <Path>substance/ground_dirt_grass_patches_diff.dds</Path>
-  <Path>substance/ground_dirt_grass_patches_height.dds</Path>
-  <Path>substance/ground_dirt_grass_patches_spec.dds</Path>
   <Path>substance/mud_ddna.dds</Path>
-  <Path>textures/cubemaps/testing/entity-4_cm.dds</Path>
-  <Path>textures/cubemaps/testing/entity-4_cm_diff.dds</Path>
-  <Path>textures/defaults/grey.dds</Path>
+  <Path>substance/rusted_painted_metal_ddn.dds</Path>
+  <Path>substance/rusted_painted_metal_ddna.dds</Path>
+  <Path>substance/rusted_painted_metal_height.dds</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.cgf</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.mtl</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower_lod1.cgf</Path>

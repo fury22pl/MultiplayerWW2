@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="28ecdcb6-3307-0048-e0b4-0dcd74adf035">
+ <Files>
+  <File path="AK47.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">AK47</Detail>
+ </Details>
+</AssetMetadata>
