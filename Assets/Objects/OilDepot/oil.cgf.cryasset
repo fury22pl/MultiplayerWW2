@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Mesh" guid="{B1AFA9A8-2BD6-304C-B55E-CC126751D0B1}">
+  <Files>
+   <File path="oil.cgf"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">3</Detail>
+   <Detail name="triangleCount">11608</Detail>
+   <Detail name="vertexCount">9959</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

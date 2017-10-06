@@ -1,0 +1,33 @@
+<UIElements name="ResultMenu">
+
+	<UIElement name="ResultMenu" render_lockless="1">
+
+		<GFx file="ResultMenu.gfx" layer="0">
+			<Constraints>
+				<Align mode="dynamic" valign="center" halign="center" scale="1" max="1"/>
+			</Constraints>
+		</GFx>
+		<functions>
+			<function name="Init" funcname="Init" desc=""/>
+			<function name="Clear" funcname="Clear" desc=""/>
+			<function name="SetPlayer" funcname="SetPlayer" desc="">
+				<param name="name" desc="" type="string"/>
+				<param name="team" desc="" type="int"/>
+				<param name="index" desc="" type="int"/>
+				<param name="kills" desc="" type="string"/>
+				<param name="deaths" desc="" type="string"/>
+			</function>
+			<function name="RemovePlayer" funcname="RemovePlayer" desc="">
+				<param name="name" desc="" type="string"/>
+			</function>
+		</functions>
+		<events>
+		</events>
+		<variables>
+		</variables>
+		<Arrays>
+	    </Arrays>
+		<MovieClips>
+		</MovieClips>
+	</UIElement>	
+</UIElements>

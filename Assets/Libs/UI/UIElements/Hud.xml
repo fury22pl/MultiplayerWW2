@@ -1,0 +1,53 @@
+<UIElements name="Hud">
+
+	<UIElement name="Hud" render_lockless="1">
+
+		<GFx file="Hud.gfx" layer="0">
+			<Constraints>
+				<Align mode="dynamic" valign="center" halign="center" scale="1" max="1"/>
+			</Constraints>
+		</GFx>
+		<functions>
+			<function name="TestFunction" funcname="TestFunction" desc=""/>
+			<function name="Init" funcname="Init" desc="">
+				<param name="health" desc="" type="int"/>
+				<param name="maxHealth" desc="" type="int"/>
+				<param name="stamina" desc="" type="int"/>
+				<param name="maxStamina" desc="" type="int"/>
+				<param name="w_name" desc="" type="string"/>
+			</function>
+			<function name="UpdateCurHud" funcname="UpdateCurHud" desc="">
+				<param name="health" desc="" type="int"/>
+				<param name="stamina" desc="" type="int"/>
+			</function>
+			<function name="UpdateCompletely" funcname="UpdateCompletely" desc="">
+				<param name="health" desc="" type="int"/>
+				<param name="maxHealth" desc="" type="int"/>
+				<param name="stamina" desc="" type="int"/>
+				<param name="maxStamina" desc="" type="int"/>
+			</function>
+			<function name="UpdateWeaponInfo" funcname="UpdateWeaponInfo" desc="">
+				<param name="name" desc="" type="string"/>
+				<param name="max" desc="" type="int"/>
+				<param name="clip" desc="" type="int"/>
+				<param name="cur" desc="" type="int"/>
+			</function>
+			<function name="UpdateAmmo" funcname="UpdateAmmo" desc="">
+				<param name="max" desc="" type="int"/>
+				<param name="clip" desc="" type="int"/>
+				<param name="cur" desc="" type="int"/>
+			</function>
+			<function name="HideWeaponInfo" funcname="HideWeaponInfo" desc="">
+				<param name="hide" desc="" type="bool"/>
+			</function>
+		</functions>
+		<events>
+		</events>
+		<variables>
+		</variables>
+		<Arrays>
+	    </Arrays>
+		<MovieClips>
+		</MovieClips>
+	</UIElement>	
+</UIElements>

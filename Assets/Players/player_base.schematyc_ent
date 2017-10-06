@@ -74,10 +74,10 @@
     </transform>
     <properties>
      <PlayerProperties>
-      <GameplayProperties MoveSpeed="20" SprintSpeed="30" MaxHealth="0" HealthRegen="0" MaxStamina="0" StaminaRegen="0"/>
+      <GameplayProperties MoveSpeed="20" SprintSpeed="60" MaxHealth="100" HealthRegen="0.0080000004" MaxStamina="100" StaminaRegen="0.2"/>
       <Physics Mass="80" Radius="0.44999999" Height="0.935" Capsule="true" SendCollisionSignal="false"/>
       <Movement AirControl="0" AirResistance="0.2" Inertia="8" InertiaAcc="8" MaxClimb="0.87266463" MaxJump="0.87266463" MinSlide="1.2217305" MinFall="1.3962634" MaxGroundVelocity="16"/>
-      <AnimationProperties Type="RenderAndCollider" Character="Objects/Characters/SampleCharacter/firstperson.cdf" DatabasePath="Animations/Mannequin/ADB/FirstPerson.adb" ControllerDefPath="Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml" DefaultScope="FirstPersonCharacter" DefaultFragment="Idle" AnimDriven="false" GroundAlign="false"/>
+      <AnimationProperties Type="RenderAndCollider" CharacterFirstPerson="Objects/Characters/SampleCharacter/firstperson.cdf" CharacterThirdPerson="Objects/Characters/SampleCharacter/thirdperson.cdf" DatabasePath="Animations/Mannequin/ADB/FirstPerson.adb" ControllerDefPath="Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml" DefaultScope="FirstPersonCharacter" DefaultFragment="Idle" AnimDriven="false" GroundAlign="false"/>
       <CameraProperties Active="true" NearPlane="0.050000001" FieldOfView="1.3089969"/>
      </PlayerProperties>
     </properties>

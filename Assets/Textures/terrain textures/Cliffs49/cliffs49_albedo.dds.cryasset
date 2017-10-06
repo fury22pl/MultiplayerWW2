@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="25d9212c-721a-1a1d-85ee-a966b5c37bb1" source="cliffs49_albedo.tif">
+ <Files>
+  <File path="cliffs49_albedo.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Material" guid="625b4df5-b298-9efb-4b4e-b49c5ab28617">
+ <Files>
+  <File path="oil_mat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">2</Detail>
+  <Detail name="textureCount">2</Detail>
+ </Details>
+ <Dependencies>
+  <Path>textures/defaults/grey.dds</Path>
+  <Path>textures/defaults/grey.dds</Path>
+ </Dependencies>
+</AssetMetadata>

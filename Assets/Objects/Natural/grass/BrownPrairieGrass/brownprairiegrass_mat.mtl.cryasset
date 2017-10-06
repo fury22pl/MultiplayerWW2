@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Material" guid="5d301c07-9e0d-84f3-90dd-52ed31fd218e">
+ <Files>
+  <File path="brownprairiegrass_mat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">3</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./tx/decal_grassBrownPrairieGrass_diff.dds</Path>
+  <Path>./tx/decal_grassBrownPrairieGrass_ddna.dds</Path>
+  <Path>./tx/decal_grassBrownPrairieGrass_spec.dds</Path>
+ </Dependencies>
+</AssetMetadata>

@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="68a6c6ff-f869-a23e-6a5e-2c11fe073d82" source="grass_green1_albedo.tif">
+ <Files>
+  <File path="grass_green1_albedo.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

@@ -8,7 +8,5 @@
   <Path>objects/characters/samplecharacter/motusbodymat</Path>
   <Path>objects/characters/samplecharacter/motusBodyHeadless.skin</Path>
   <Path>objects/characters/samplecharacter/motusBodyMAT.mtl</Path>
-  <Path>Objects/Weapons/SampleWeapon/defaultweapon.cgf</Path>
-  <Path>Objects/Weapons/SampleWeapon/defaultweapon.mtl</Path>
  </Dependencies>
 </AssetMetadata>

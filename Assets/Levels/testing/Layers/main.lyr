@@ -4,7 +4,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="a2621758-54a0-0544-ed57-b4c39ff56a39" Name="items::weapons::ak47-2" Pos="1030.7194,1049.2014,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="62eee5ea-949f-2e1b-377f-7968c7a1210e" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="7186bbb1-00b0-8558-485e-cc7b7c5c7e17" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -16,7 +16,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="98dce9bf-c8e5-182d-0428-c64a20c12019" Name="items::weapons::ak47-3" Pos="1030.7098,1057.4728,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="7be7ee06-17d8-4541-8a25-368544732c63" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="035427fb-74bf-cdf1-6d1e-949ae8c0e482" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -123,7 +123,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="7800c557-f2c2-4356-a54e-e6e09e9a2b35" Name="items::weapons::ak47-1" Pos="1030.5138,1042.3424,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="96beb0c7-25a5-5b58-4c87-be310523c7a8" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="27dd7b04-c2dc-f8da-34c1-668c83c0037d" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -135,7 +135,7 @@
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="f05802a0-bb82-596c-2843-ac0f1b3387ec" Name="Entity-2" Pos="1021.004,1039.1769,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="41316132-8a1e-4073-b0cd-a242fd3d2e90" TypeName="CSpawnPointComponent" GUID="396c8caf-9e10-d573-0e7a-2899eea4d7b6" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="41316132-8a1e-4073-b0cd-a242fd3d2e90" TypeName="CSpawnPointComponent" GUID="4624989e-79bc-9837-1d1e-e89eb76690ab" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>
@@ -158,6 +158,25 @@
      <components />
      <variables />
     </SchematycProperties>
+   </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="bb61e184-ec97-7912-befa-e0e7a6d0e48e" Name="Entity-3" Pos="993.2038,1077.1798,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="4135431d-51a1-49e5-a7e3-90490cacf2b7" TypeName="CCaptureAreaComponent" GUID="9b34575b-6fa6-220f-6ce6-af7535cac48f" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties>
+       <CPlayerAreaTriggerComponent />
+      </properties>
+     </Component>
+    </Components>
    </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="47b0507c-e29e-828d-9abf-880ad9b42f44" Name="items::weapons::47mag-6" Pos="1008.9878,1043.1512,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
     <Properties />
@@ -275,7 +294,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="7800bd9e-f9c2-996b-ba98-2596ca111ef6" Name="items::weapons::ak47-5" Pos="1012.0594,1063.739,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="28ddb6e6-4b0b-f79e-59ad-b9d3e93df05d" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="5cc2e7fd-6420-b522-079f-943295170f5b" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -284,14 +303,14 @@
      <variables />
     </SchematycProperties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="8fcc4dbc-cc56-9981-ff00-07d2e88ea703" Name="items::weapons::47mag-8" Pos="1010.3687,1069.7935,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="8fcc4dbc-cc56-9981-ff00-07d2e88ea703" Name="items::weapons::47mag-8" Pos="996.86621,1080.2103,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
     <Properties />
     <SchematycProperties CryXmlVersion="2">
      <components />
      <variables />
     </SchematycProperties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="e61e86c4-094a-a94f-3c4c-355e16d3b877" Name="items::weapons::47mag-4" Pos="1006.2721,1049.7355,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="e61e86c4-094a-a94f-3c4c-355e16d3b877" Name="items::weapons::47mag-4" Pos="990.8847,1081.0316,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
     <Properties />
     <SchematycProperties CryXmlVersion="2">
      <components />
@@ -305,7 +324,7 @@
      <variables />
     </SchematycProperties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="83a76db4-ad15-bade-99ea-18daf2e9936b" Name="items::weapons::47mag-5" Pos="1007.8425,1055.5204,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="83a76db4-ad15-bade-99ea-18daf2e9936b" Name="items::weapons::47mag-5" Pos="993.65161,1073.5337,34.105717" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
     <Properties />
     <SchematycProperties CryXmlVersion="2">
      <components />
@@ -315,7 +334,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="9a9d3d01-268a-d4b0-1784-6c165e515293" Name="items::weapons::ak47-4" Pos="1021.3076,1062.8928,32.149628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="663dc63f-9802-0046-f542-fd97e77c89a7" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="a94a7102-b576-e98c-c847-8c265a56c72c" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -324,7 +343,7 @@
      <variables />
     </SchematycProperties>
    </Object>
-   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="5f439280-6188-dcc7-c334-f8cedbe238ce" Name="items::weapons::47pack-1" Pos="999.31531,1062.7816,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47pack" ClassGUID="1ede345d-e06f-4c3e-b447-b0eb929fb87b" HasEntity="1">
+   <Object Type="Entity" Layer="Main" LayerGUID="b2a409a2-c93a-addb-35dd-d29a533e2bc8" Id="5f439280-6188-dcc7-c334-f8cedbe238ce" Name="items::weapons::47pack-1" Pos="997.42358,1073.1534,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47pack" ClassGUID="1ede345d-e06f-4c3e-b447-b0eb929fb87b" HasEntity="1">
     <Properties />
     <SchematycProperties CryXmlVersion="2">
      <components />

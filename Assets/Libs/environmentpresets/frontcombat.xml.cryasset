@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="752fda36-c609-c605-b34f-e1361aea5773">
+ <Files>
+  <File path="frontcombat.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">EnvironmentPreset</Detail>
+ </Details>
+</AssetMetadata>

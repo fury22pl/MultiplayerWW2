@@ -73,7 +73,7 @@
      <scale />
     </transform>
     <properties>
-     <BulletProperties BulletMesh="Items/Bullets/bullet.cgf" BulletMass="0.16" BulletSize="0.30000001" BulletSpeed="360"/>
+     <BulletProperties BulletMesh="Items/Bullets/bullet.cgf" BulletMass="16" BulletSize="36" BulletSpeed="360"/>
     </properties>
     <extensions />
     <children />

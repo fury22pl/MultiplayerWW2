@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Mesh" guid="{126C0CEB-8EBA-F266-0872-9961EEEE715F}">
+  <Files>
+   <File path="BrownPrairieGrass_c.cgf"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">1</Detail>
+   <Detail name="triangleCount">8</Detail>
+   <Detail name="vertexCount">9</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

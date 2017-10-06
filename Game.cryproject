@@ -54,6 +54,10 @@
             "name": "cl_serverport",
             "value": "64087"
         },
+        {
+            "name": "r_displayinfo",
+            "value": "0"
+        },
 		{
             "name": "r_fullscreen",
             "value": "1"

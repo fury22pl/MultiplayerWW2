@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Mesh" guid="{EB4571DB-02AB-EA1B-315A-92129A7666A3}">
+  <Files>
+   <File path="ground.cgf"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">3</Detail>
+   <Detail name="triangleCount">370</Detail>
+   <Detail name="vertexCount">702</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="ec992b14-47b1-07f3-3ab6-c4a019aab815" source="cliffs49_spec.tif">
+ <Files>
+  <File path="cliffs49_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

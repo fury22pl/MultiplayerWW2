@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="8078e369-f31b-5e92-5a07-34d17a60330b" source="cliffs179_ddna.tif">
+ <Files>
+  <File path="cliffs179_ddna.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>
