@@ -1,6 +1,6 @@
 <download name="FrontCombat" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="18005313" md5="a89645d5f900ad98470481ce17b155cb"/>
+  <file src="level.pak" dest="level.pak" size="18035479" md5="9c2831a6bcbf294d226a14136f99be73"/>
  </files>
 </download>
