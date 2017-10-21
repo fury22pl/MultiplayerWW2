@@ -74,10 +74,10 @@
     </transform>
     <properties>
      <ItemProperties Pickable="true">
-      <RenderProperties GeometryPath="Objects/Default/primitive_cube_small.cgf" CharacterPath="" MaterialPath=""/>
+      <RenderProperties GeometryPath="Items/Weapons/mag.cgf" CharacterPath="" MaterialPath="Materials/objects.mtl"/>
       <PhysicProperties Mass="1"/>
      </ItemProperties>
-     <MagazineProperties BulletType="schematyc::items::weapons::47bullet" WeaponName="schematyc::items::weapons::ak47" MaxAmmo="100"/>
+     <AmmoClipProperties BulletType="schematyc::items::weapons::47bullet" WeaponName="schematyc::items::weapons::ak47" MaxAmmo="30" CurrentAmmo="0"/>
     </properties>
     <extensions />
     <children />

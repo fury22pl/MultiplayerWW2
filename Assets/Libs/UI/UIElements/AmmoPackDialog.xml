@@ -1,0 +1,33 @@
+<UIElements name="AmmoPackDialog">
+
+	<UIElement name="AmmoPackDialog" render_lockless="1">
+
+		<GFx file="AmmoPackDialog.gfx" layer="0">
+			<Constraints>
+				<Align mode="dynamic" valign="center" halign="center" scale="1" max="1"/>
+			</Constraints>
+		</GFx>
+		<functions>
+			<function name="Init" funcname="Init" desc=""/>
+			<function name="Set" funcname="Set" desc="">
+				<param name="maxCap" desc="" type="int"/>
+				<param name="curAmmo" desc="" type="int"/>
+				<param name="bullName" desc="" type="string"/>
+			</function>
+		</functions>
+		<events>
+			<event name="Deposit" funcname="Deposit" desc="">
+				<param name="integer" desc="" type="int"/>
+			</event>
+			<event name="Take" funcname="Take" desc="">
+				<param name="integer" desc="" type="int"/>
+			</event>
+		</events>
+		<variables>
+		</variables>
+		<Arrays>
+	    </Arrays>
+		<MovieClips>
+		</MovieClips>
+	</UIElement>	
+</UIElements>

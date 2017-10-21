@@ -62,7 +62,7 @@
      </element>
     </children>
    </element>
-   <element elementType="ComponentInstance" guid="a246dbc7-e9b4-4e71-9d9e-e1a98fba584b" name="Client component" accessor="Private" typeGUID="0ddab413-0ef7-41f2-9b6e-2f98a7c974d1">
+   <element elementType="ComponentInstance" guid="20bba636-e111-43d3-9ab1-c07da48004ee" name="Player component" accessor="Private" typeGUID="cea3997b-37c9-497f-adf5-c52a6ff95ab1">
     <transform x="1" y="1" z="1">
      <translation>
       <element element="0"/>
@@ -74,7 +74,7 @@
     </transform>
     <properties>
      <PlayerProperties>
-      <GameplayProperties MoveSpeed="20" SprintSpeed="60" MaxHealth="100" HealthRegen="0.0080000004" MaxStamina="100" StaminaRegen="0.2"/>
+      <GameplayProperties MoveSpeed="20" SprintSpeed="40" MaxHealth="100" HealthRegen="0.0080000004" MaxStamina="100" StaminaRegen="0.2" Strength="10"/>
       <Physics Mass="80" Radius="0.44999999" Height="0.935" Capsule="true" SendCollisionSignal="false"/>
       <Movement AirControl="0" AirResistance="0.2" Inertia="8" InertiaAcc="8" MaxClimb="0.87266463" MaxJump="0.87266463" MinSlide="1.2217305" MinFall="1.3962634" MaxGroundVelocity="16"/>
       <AnimationProperties Type="RenderAndCollider" CharacterFirstPerson="Objects/Characters/SampleCharacter/firstperson.cdf" CharacterThirdPerson="Objects/Characters/SampleCharacter/thirdperson.cdf" DatabasePath="Animations/Mannequin/ADB/FirstPerson.adb" ControllerDefPath="Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml" DefaultScope="FirstPersonCharacter" DefaultFragment="Idle" AnimDriven="false" GroundAlign="false"/>

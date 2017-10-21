@@ -14,6 +14,13 @@
 	
 	<Class name="SpawnPoint" policy="obj"/>
 	
+	<Class name="schematyc::items::weapons::47mag" policy="obj"/>
+	<Class name="schematyc::items::weapons::47pack" policy="obj"/>
+	<Class name="schematyc::items::weapons::ak47" policy="obj"/>
+	<Class name="schematyc::players::player_base" policy="obj"/>
+	
+		<Class name="Entity" policy="obj"/>
+	
 	<!-- fallback -->
 	<Default policy="obj"/>
 </EntityScheduler>

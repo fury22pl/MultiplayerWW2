@@ -77,7 +77,7 @@
       <RenderProperties GeometryPath="Items/Weapons/AK47/ak47.cgf" CharacterPath="Items/Weapons/AK47/ak47.cdf" MaterialPath="Items/Weapons/AK47/AK47Mat.mtl"/>
       <PhysicProperties Mass="1"/>
      </ItemProperties>
-     <WeaponProperties MagazineName="schematyc::items::weapons::47mag" ReloadSpeed="6000" FireMode="All" SerieMax="5">
+     <WeaponProperties AmmoClipName="schematyc::items::weapons::47mag" ReloadSpeed="6000" FireMode="SingleAuto" SerieMax="5">
       <FireTrigger triggerName="Shot"/>
       <DrrFireTrigger triggerName="DryShot"/>
       <ReloadTrigger triggerName="Reload"/>

@@ -62,6 +62,26 @@
      </element>
     </children>
    </element>
+   <element elementType="ComponentInstance" guid="1606fe66-90af-4bb9-bd56-94dc06132f7b" name="Ammo pack" accessor="Public" typeGUID="c578b0c4-a833-4d2c-a4a3-ce2646408bed">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <ItemProperties Pickable="true">
+      <RenderProperties GeometryPath="Objects/Default/primitive_cube.cgf" CharacterPath="" MaterialPath="Materials/objects.mtl"/>
+      <PhysicProperties Mass="15"/>
+     </ItemProperties>
+     <AmmoPackProperties BulletType="schematyc::items::weapons::47bullet" MaxAmmo="200" CurrentAmmo="0"/>
+    </properties>
+    <extensions />
+    <children />
+   </element>
   </children>
  </root>
 </CrySchematyc>
