@@ -1,0 +1,53 @@
+<UIElements name="MainMenu">
+
+	<UIElement name="MainMenu" render_lockless="1">
+
+		<GFx file="MainMenu.gfx" layer="0">
+			<Constraints>
+				<Align mode="dynamic" valign="center" halign="center" scale="1" max="1"/>
+			</Constraints>
+		</GFx>
+		<functions>
+			<function name="TestFunction" funcname="TestFunction" desc=""/>
+			<function name="Init" funcname="Init" desc="">
+				<param name="curres" desc="" type="int"/>
+			</function>
+			<function name="UpdateCurrentResolution" funcname="UpdateCurrentResolution" desc="">
+				<param name="curres" desc="" type="int"/>
+			</function>
+			<function name="CanPlay" funcname="CanPlay" desc="">
+				<param name="canDo" desc="" type="bool"/>
+			</function>
+			<function name="CanApplyNewSettings" funcname="CanApplyNewSettings" desc="">
+				<param name="canDo" desc="" type="bool"/>
+			</function>
+		</functions>
+		<events>
+			<event name="Play" funcname="Play" desc="">
+				<param name="currentClass" desc="" type="string"/>
+			</event>
+			<event name="ApplyOptions" funcname="ApplyOptions" desc=""/>
+			<event name="ExitGame" funcname="ExitGame" desc=""/>
+			<event name="DeselectClass" funcname="DeselectClass" desc=""/>
+			<event name="DeselectMap" funcname="DeselectMap" desc=""/>
+			<event name="SettingsChanged" funcname="SettingsChanged" desc="">
+				<param name="curRes" desc="" type="int"/>
+			</event>
+			<event name="SelectClass" funcname="SelectClass" desc="">
+				<param name="label.text" desc="" type="string"/>
+			</event>
+			<event name="SelectMap" funcname="SelectMap" desc="">
+				<param name="label.text" desc="" type="string"/>
+			</event>
+		</events>
+		<variables>
+		</variables>
+		<Arrays>
+			<array name="resArr" funcname="resArr" desc=""/>
+			<array name="mapsArr" funcname="mapsArr" desc=""/>
+			<array name="classesArr" funcname="classesArr" desc=""/>
+	    </Arrays>
+		<MovieClips>
+		</MovieClips>
+	</UIElement>	
+</UIElements>

@@ -1,0 +1,319 @@
+<ObjectLayer>
+ <Layer Name="Main" FullName="Main" GUID="7340c184-12af-b894-7961-90b865d02bb8" Hidden="0" Frozen="0" Expanded="0" Type="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="d39f5920-4f30-0f24-590b-b44e077b3d93" Name="Entity-5" Pos="493.47205,488.85229,36.960499" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="ea39493b-a1fc-9679-d664-279d9fd60ef2" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties Active="true" Radius="23.815786">
+       <Color DiffMult="1" SpecMult="1">
+        <Color r="1" g="1" b="1" a="1"/>
+       </Color>
+       <Shadows ShadowSpec="None"/>
+       <Options AttenuationBulbSize="6.0210524" IgnoreVisAreas="false" AffectVolumetricFog="true" VolumetricFogOnly="false" OnlyAffectThisArea="true" Ambient="false" FogRadialLobe="0" GIMode="None"/>
+       <Animations Style="0" Speed="1"/>
+      </properties>
+     </Component>
+    </Components>
+   </Object>
+   <Object Type="Designer" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="56b72adf-3e7b-202b-22e9-c2378d9d94f4" Name="Designer-1" Pos="495.23462,502.54507,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" Material="%ENGINE%/EngineAssets/TextureMsg/DefaultSolids" RndFlags="1073741832" StaticObjFlags="0" ViewDistRatio="100">
+    <Brush DesignerModeFlags="0" SubdivisionLevel="0" SubdivisionSmoothingGroup="0" MirrorPlaneNormal="0,0,0" MirrorPlaneDistance="0">
+     <Polygon GUID="2a943fd4-1908-4dbc-2161-bb40c30f7e5e" BinaryData="BAAAAAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAwDcFD8DT13IEvRogQAAAAEBvPxLAAAAAwDcFD8AAAAAAAAAAAAAAAEBvPxLAAAAAQOcL8b8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAABAbz8SQDpfiL/o1QDBvil4wOjVAMG+KXjAAAAAgDpfiL8AAACA"/>
+     <Polygon GUID="16c7e566-e90f-8643-f23c-491dcc38c947" BinaryData="BAAAAAAAAEBvPxLAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAAwDcFD8AAAAAAAAAAAAAAAEBvPxLAAAAAwDcFD8AAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAAAAAAADANwUPwHr7kcDo1QDBx47fwejVAMHHjt/BAAAAgHr7kcAAAACA"/>
+     <Polygon GUID="1c3e5875-4a49-e942-ceb8-428a09947c04" BinaryData="CAAAAAAAAODY8TvAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAA4AEmO8DT13IEvRogQAAAAODY8TvAAAAA4AEmO8AAAAAAAAAAAAAAAODY8TvAAAAAwDcFD8AAAAAAAAAAAAAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BQV7UVNivuPwgAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAQAAAAFAAAABgAAAAQAAAAHAAAABgAAAAUAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAIA/AAAAAAAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAAAAAAODY8TtAvil4wOjVAMEPMNnB6NUAwQ8w2cEAAACAvil4wAAAAICJeH7BKL0Sv4l4fsGxWXG/T8j8wCi9Er9PyPzAsVlxvw=="/>
+     <Polygon GUID="4a5db62c-3fec-5502-82e5-970e092737ab" BinaryData="BAAAAAAAAODY8TvAAAAA4AEmO8DT13IEvRogQAAAACA9G/e/AAAA4AEmO8DT13IEvRogQAAAACA9G/e/AAAA4AEmO8AAAAAAAAAAAAAAAODY8TvAAAAA4AEmO8AAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAAAADgASY7QMeO30Ho1QDB6dm4P+jVAMHp2bg/AAAAgMeO30EAAACA"/>
+     <Polygon GUID="c8851896-b62d-231b-2c75-f230e114d06a" BinaryData="BAAAAAAAACA9G/e/AAAA4AEmO8DT13IEvRogQAAAACA9G/e/AAAAwArq5L/T13IEvRogQAAAACA9G/e/AAAAwArq5L8AAAAAAAAAAAAAACA9G/e/AAAA4AEmO8AAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAAAgPRv3vw8w2UHo1QDBVlAnP+jVAMFWUCc/AAAAgA8w2UEAAACA"/>
+     <Polygon GUID="ac51bf93-ca88-4fd7-a554-979616271a80" BinaryData="BAAAAAAAACA9G/e/AAAAwArq5L/T13IEvRogQAAAAAAADcc/AAAAAAC61r/T13IEvRogQAAAAAAADcc/AAAAAAC61r8AAAAAAAAAAAAAACA9G/e/AAAAwArq5L8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAABlOjxOPiLHv3PFfLIYee8/AAAAAAAAAABJn3QwcW/YP+nZuD/o1QDBAGg4vujVAMEAaDi+AAAAAOnZuD8AAACA"/>
+     <Polygon GUID="14c862d7-d030-ab46-4de7-6044148dbb6a" BinaryData="BAAAAAAAAAAADcc/AAAAQOcL8b/T13IEvRogQAAAAAAADcc/AAAAAAC61r/T13IEvRogQAAAACA9G/e/AAAAwArq5L/T13IEvRogQAAAACA9G/e/AAAAQOcL8b/T13IEvRogQAQAAAAAAAAAAQAAAAIAAAADAAAAAQAAAAIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D/T13IEvRogwABoOD46X4g/AGg4PgDQtT7p2bi/VlAnP+nZuL86X4g/"/>
+     <Polygon GUID="3cfa91dc-2fd5-c79f-66a7-9fc07d6f0b21" BinaryData="BAAAAAAAAAAADcc/AAAAQNPCPMAAAAAAAAAAAAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQNPCPMAAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAAAAAAABA08I8wABoOD4AAAAAAGg4Psf7GcE66evBx/sZwTrp68EAAACA"/>
+     <Polygon GUID="7a64f771-f1f0-1e4a-88ec-9c098b3a6474" BinaryData="BAAAAAAAAEAnfT3AAAAAQNPCPMAAAAAAAAAAAAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAEAnfT3AAAAAQOcL8b8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAABAJ309wJoW5kEAAACAmhbmQcf7GcE6X4g/x/sZwTpfiD8AAACA"/>
+     <Polygon GUID="84dcc737-6275-9d1f-1e57-15391bacbb97" BinaryData="BgAAAAAAAAAADcc/AAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAAAAEAnfT3AAAAAQOcL8b8AAAAAAAAAAAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAAAAEBvPxLAAAAAQOcL8b8AAAAAAAAAAAYAAAAAAAAAAQAAAAIAAAADAAAAAwAAAAQAAAAEAAAAAAAAAAEAAAAFAAAABQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAAAAAQOcL8T8AaDi+6NUAwXr7kUDo1QDBOunrQQAAAIA66etBx/sZwQBoOL7H+xnBevuRQAAAAIA="/>
+     <Polygon GUID="6169f809-cd13-9214-2c57-3feb2dbc2e74" BinaryData="BgAAAAAAAAAADcc/AAAAQOcL8b/T13IEvRogQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAAAADcc/AAAAQNPCPMAAAAAAAAAAAAAAAAAADcc/AAAAAAC61r/T13IEvRogQAAAAAAADcc/AAAAAAC61r8AAAAAAAAAAAYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAAEAAAAAAAAAAMAAAAFAAAABQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAANx786X4i/6NUAwTpfiL/H+xnBmhbmwcf7GcGaFubBAAAAAADQtb7o1QDBANC1vgAAAAA="/>
+     <Polygon GUID="39804fc0-e2fa-3cd3-f316-30c8b465247f" BinaryData="BAAAAAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAQAAAAAAAAAAwAAAAMAAAACAAAAAgAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8D/T13LoeD8jwABoOD6aFuZBOunrwZoW5kE66evBOl+IPwBoOD46X4g/"/>
+     <Polygon GUID="4c114878-b319-faf0-95bd-83ac9c045ab5" BinaryData="BgAAAAAAACA9G/e/AAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAA4AEmO8DT13IEvRogQAAAACA9G/e/AAAA4AEmO8DT13IEvRogQAYAAAAAAAAABQAAAAUAAAAEAAAABAAAAAMAAAADAAAAAgAAAAIAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/09dyBL0aIEDp2bg/Ol+Iv3r7kUA6X4i/evuRQL4peMDHjt9Bvil4wMeO30EPMNnB6dm4Pw8w2cE="/>
+     <Polygon GUID="4eb9b2ac-fe2a-45ed-c3da-fa7c9eec76aa" BinaryData="BAAAAAAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAMilE5QIl4fsGxWXG/iXh+wSi9Er9PyPzAKL0Sv0/I/MCxWXG/"/>
+     <Polygon GUID="b89b2c6e-59db-a261-dbb3-8262025a40fc" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D9QV7UVNivuv8eO38FPyPxAx47fwYl4fkFQjMrBiXh+QVCMysFPyPxA"/>
+     <Polygon GUID="373d9006-bce7-2c4a-8965-f042f49f2023" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAY3zbdCZkfQMeO30EovRK/x47fQbFZcb9QjMpBsVlxv1CMykEovRK/"/>
+     <Polygon GUID="d47b92df-87de-6ea7-c6c2-7614b70a1c68" BinaryData="BAAAAAAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L9GxYoHpVfiP8eO30GJeH7Bx47fQU/I/MBQjMpBT8j8wFCMykGJeH7B"/>
+     <Polygon GUID="174a0218-217b-e6cc-9484-b8f3060bcc82" BinaryData="BAAAAAAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAAADzlA4VEc8vwMeO38GxWXG/x47fwSi9Er9QjMrBKL0Sv1CMysGxWXG/"/>
+     <SmoothingGroups />
+     <SemiSharpCrease />
+     <UVIslands />
+    </Brush>
+    <Mesh Version="2" BinaryData="AAAAAAAAAABSAAAAUgAAAJAAAABSAAAAAQAAAHr7kcA6X4i/6NUAQXr7kcC+KXjA6NUAQXr7kcC+KXjAAAAAAHr7kcA6X4i/AAAAAHr7kcC+KXjA6NUAQceO38G+KXjA6NUAQceO38G+KXjAAAAAAHr7kcC+KXjAAAAAAMeO38FPyPzAsVlxP8eO38G+KXjAAAAAAMeO38G+KXjA6NUAQceO38FPyPzAKL0SP8eO38GJeH7BsVlxP8eO38GJeH7BKL0SP8eO38EPMNnB6NUAQceO38EPMNnBAAAAAMeO38EPMNnB6NUAQenZuL8PMNnB6NUAQenZuL8PMNnBAAAAAMeO38EPMNnBAAAAAOnZuL8PMNnB6NUAQenZuL9WUCe/6NUAQenZuL9WUCe/AAAAAOnZuL8PMNnBAAAAAOnZuL9WUCe/6NUAQQBoOD4A0LW+6NUAQQBoOD4A0LW+AAAAAOnZuL9WUCe/AAAAAABoOD46X4i/6NUAQQBoOD4A0LW+6NUAQenZuL9WUCe/6NUAQenZuL86X4i/6NUAQQBoOD6aFubBAAAAAABoOD6aFubBx/sZQTrp68GaFubBx/sZQTrp68GaFubBAAAAADrp68GaFubBAAAAADrp68GaFubBx/sZQTrp68E6X4i/x/sZQTrp68E6X4i/AAAAAHr7kcA6X4i/6NUAQTrp68E6X4i/AAAAADrp68E6X4i/x/sZQXr7kcA6X4i/AAAAAABoOD46X4i/x/sZQQBoOD46X4i/6NUAQQBoOD6aFubBx/sZQQBoOD4A0LW+AAAAAABoOD46X4i/6NUAQQBoOD6aFubBAAAAAABoOD4A0LW+6NUAQQBoOD46X4i/x/sZQQBoOD6aFubBx/sZQQBoOD46X4i/x/sZQTrp68E6X4i/x/sZQTrp68GaFubBx/sZQXr7kcC+KXjA6NUAQXr7kcA6X4i/6NUAQenZuL86X4i/6NUAQenZuL8PMNnB6NUAQceO38G+KXjA6NUAQceO38EPMNnB6NUAQVCMysGJeH7BsVlxP1CMysGJeH7BKL0SP1CMysFPyPzAKL0SP1CMysFPyPzAsVlxP8eO38FPyPzAsVlxP8eO38GJeH7BsVlxP1CMysGJeH7BsVlxP1CMysFPyPzAsVlxP8eO38FPyPzAKL0SP8eO38FPyPzAsVlxP1CMysFPyPzAsVlxP1CMysFPyPzAKL0SP8eO38GJeH7BKL0SP8eO38FPyPzAKL0SP1CMysFPyPzAKL0SP1CMysGJeH7BKL0SP8eO38GJeH7BsVlxP8eO38GJeH7BKL0SP1CMysGJeH7BKL0SP1CMysGJeH7BsVlxPwAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAPIROb7GyHs/AAAAAPIROb7GyHs/AAAAAPIROb7GyHs/AAAAAPIROb7GyHs/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAIAAAACAAACAPwAAAIAAAACAAACAPwAAAIAAAACAAACAPwAAAIAAAACAAACAPwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAA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AAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAACgAGAAAD+fwAAAYAAAAAAAoABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYACgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/n8AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38AAP5/AAABgAAAAAACgAGAAAD+fwAAAYAAAAAAAoABgAAA/n8AAAGAAAAAAAKAAYAAAP5/AAABgAAAAAACgAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD+fwAAAAABgAAAAoAAAAGA/38AAAAAAYAAAAGAAAABgAKAAAAAAAGAAAAAAAKAAYACgAAAAAABgAAAAAACgAGAAoAAAAAAAYAAAAAAAoABgAKAAAAAAAGAAAAAAAKAAYACgAAAAAD/fwAA/n8AAP9/AYAAAAAA/38AAP9/AAD/fwKAAAAAAP9/AAD+fwAA/38BgAAAAAD/fwAA/38AAP9//n8AAAAAAYAAAAAAAoABgP5/AAAAAAGAAAAAAAKAAYD+fwAAAAABgAAAAAACgAGA/n8AAAAAAYAAAAAAAoABgGp4asHa7WjBx/uZQMK/qEEAAAAAAAAAAJAAAAAAAAAAUgAAAAAAAAAAAAAAABAAAA=="/>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="515c7752-348d-21b9-9491-d6eee0515e1d" Name="47mag-12" Pos="469.6134,492.12051,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="c8e69a2c-4726-271e-8fa5-c07fcf9f5b1d" Name="weapons::47mag-1" Pos="468.18024,492.47128,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="a259abb5-df99-28c2-05a0-9160e00cb5d1" Name="items::weapons::ak47-5" Pos="469.0274,490.03098,33.415848" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="899c281d-9756-b3fb-218f-17555cbdbd4e" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ee93820a-1253-2b29-081a-bbf32c8d626c" Name="items::weapons::ak47-3" Pos="468.95227,488.96201,33.289406" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="a9883815-71ea-6c1e-f62d-b7ba522c2ca1" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="483c69d2-add4-2c73-bb92-fedbee5f3cf0" Name="47mag-2" Pos="468.05258,493.35071,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="03e6544b-67e6-36bd-3064-8b1ec968f5ab" Name="47mag-8" Pos="469.31708,492.565,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="0f6c5f1d-6a04-4246-f0ab-b840f5b5c790" Name="items::weapons::ak47-6" Pos="467.9834,491.13193,33.524929" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="ae293d3d-1057-6b50-703b-3c71db1764be" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="7834677f-7f6d-494a-8ed7-08527f2c4943" Name="items::weapons::ak47-7" Pos="468.87567,490.81891,33.381199" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="5962a501-9ab1-8fdf-cd02-6fb755f8fffc" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="88bb433a-dec1-5607-0f4c-0bc39ed680c0" Name="47mag-7" Pos="468.75348,492.47311,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="995c9898-ae80-6ed0-fee0-826fc3b678d8" Name="47mag-1" Pos="468.00647,492.9166,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ad4d9097-0a4c-7af1-b465-5580bda72c23" Name="items::weapons::ak47-4" Pos="467.85385,489.36545,33.696964" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="db8ce54f-ab2f-e6c5-1534-5ab6b81f2038" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="8eef4e12-5682-8b6d-61a1-e748e1466cda" Name="items::weapons::47pack-1" Pos="468.78677,479.16379,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47pack" ClassGUID="1ede345d-e06f-4c3e-b447-b0eb929fb87b" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components>
+      <element key="1606fe66-90af-4bb9-bd56-94dc06132f7b">
+       <value overridePolicy="Override">
+        <properties>
+         <ItemProperties Pickable="true">
+          <RenderProperties GeometryPath="Objects/Default/primitive_cube.cgf" CharacterPath="" MaterialPath="Materials/objects.mtl"/>
+          <PhysicProperties Mass="300"/>
+         </ItemProperties>
+         <AmmoPackProperties BulletType="schematyc::items::weapons::47bullet" MaxAmmo="1000" CurrentAmmo="1000"/>
+        </properties>
+       </value>
+      </element>
+     </components>
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="a1a3ce98-b3cc-9b65-b13c-10d481ae2167" Name="Entity-4" Pos="493.3847,480.10016,36.890854" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="ffee9217-abf8-1f8d-4c9e-ed786182ba20" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties Active="true" Radius="23.815786">
+       <Color DiffMult="1" SpecMult="1">
+        <Color r="1" g="1" b="1" a="1"/>
+       </Color>
+       <Shadows ShadowSpec="None"/>
+       <Options AttenuationBulbSize="6.0210524" IgnoreVisAreas="false" AffectVolumetricFog="true" VolumetricFogOnly="false" OnlyAffectThisArea="true" Ambient="false" FogRadialLobe="0" GIMode="None"/>
+       <Animations Style="0" Speed="1"/>
+      </properties>
+     </Component>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="a0c643da-7d34-a5e9-a938-fafac0b7c140" Name="items::weapons::ak47-1" Pos="468.59155,487.81775,33.477428" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="5e46a377-aaf5-cc09-76ad-8c73b2e5e829" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="4f9211f2-06e8-ab07-46c4-5b46fef9170b" Name="47mag-6" Pos="468.80502,493.14014,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="6676ec63-2454-b496-a313-f26f9c2c5882" Name="Entity-3" Pos="467.70319,490.50259,35.994301" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="f114e21b-01e9-030f-7414-66aa99b9298d" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties Active="true" Radius="24.47368">
+       <Color DiffMult="1" SpecMult="1">
+        <Color r="1" g="1" b="1" a="1"/>
+       </Color>
+       <Shadows ShadowSpec="None"/>
+       <Options AttenuationBulbSize="7.9947362" IgnoreVisAreas="false" AffectVolumetricFog="true" VolumetricFogOnly="false" OnlyAffectThisArea="true" Ambient="false" FogRadialLobe="0" GIMode="None"/>
+       <Animations Style="0" Speed="1"/>
+      </properties>
+     </Component>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="1e2d1273-cc6b-c772-d7bf-fc4f382dfda8" Name="47mag-10" Pos="469.36926,494.04114,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="f4626231-d013-c8a9-5014-320eb4786c0b" Name="47mag-14" Pos="468.56046,491.7475,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="f1278d1b-4ebe-d14e-096a-0180577198d2" Name="47mag-9" Pos="469.19302,493.29199,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="b88b13f7-07f3-d796-fee2-f85546134537" Name="items::weapons::47mag-1" Pos="467.7821,491.89264,32.942776" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="be56ec82-11f5-dcec-f21d-43bd1f19a701" Name="47mag-4" Pos="468.75974,494.26038,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="65fda5e2-af6f-e2b1-9872-16cf837f6728" Name="47mag-11" Pos="469.70383,493.40424,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="8c31740a-0da6-e8c5-de1e-34c5b56176d4" Name="47mag-5" Pos="468.82095,493.65491,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="5bbb6e93-dd64-eb15-e88f-a4d08374da1d" Name="items::weapons::ak47-2" Pos="468.82263,488.33115,33.421337" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="c881e303-abc1-826f-f6d6-2d0a1eb12979" Name="" UserAdded="false">
+      <properties />
+     </Component>
+    </Components>
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="b957e4f4-abb5-f82c-d591-b4340b57ad29" Name="47mag-13" Pos="469.08008,491.73392,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+   <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="922ca0cb-f69e-f8ae-5cd8-6d5455147842" Name="47mag-3" Pos="467.98495,494.07101,33.108246" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47mag" ClassGUID="30ada1f2-0729-4f4a-82cf-ffce8f658165" HasEntity="1">
+    <Properties />
+    <SchematycProperties CryXmlVersion="2">
+     <components />
+     <variables />
+    </SchematycProperties>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,89 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="a6d07c64-f290-431c-a6c5-b70c15407822" scope="">
+ <root elementType="Class" guid="f526899c-6056-4433-888c-e5482fa9f7c0" name="player_engineer">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="280ca106-9340-4db1-8c20-8c34516db84a" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="7e548b4c-1080-4d3f-be74-b63e33761845" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="7e548b4c-1080-4d3f-be74-b63e33761845">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="6b002588-4e95-4903-8fe4-a1b99055701a" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="99737086-27b6-4438-9cb6-2051e22c5b24" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="99737086-27b6-4438-9cb6-2051e22c5b24" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="4e0bb4b9-169d-46fa-9ba6-6344c02311f6" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="4e0bb4b9-169d-46fa-9ba6-6344c02311f6" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+       <element key="6afba522-cf0c-4935-8a52-380a6e2b1e90" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="6afba522-cf0c-4935-8a52-380a6e2b1e90" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="689938a4-8830-4137-af78-2adfe1de677a" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="169e4225-b62d-4646-adca-cbc41287b42b" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+   <element elementType="ComponentInstance" guid="3b0e7ff3-29d3-4a24-ab07-a1c73ee39af5" name="Player component" accessor="Private" typeGUID="cea3997b-37c9-497f-adf5-c52a6ff95ab1">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <PlayerProperties>
+      <GameplayProperties MoveSpeed="20" SprintSpeed="40" MaxHealth="90" HealthRegen="0.0080000004" MaxStamina="90" StaminaRegen="0.2" Strength="13"/>
+      <Physics Mass="80" Radius="0.44999999" Height="0.935" Capsule="true" SendCollisionSignal="false"/>
+      <Movement AirControl="0" AirResistance="0.2" Inertia="8" InertiaAcc="8" MaxClimb="0.87266463" MaxJump="0.87266463" MinSlide="1.2217305" MinFall="1.3962634" MaxGroundVelocity="16"/>
+      <AnimationProperties Type="RenderAndCollider" CharacterFirstPerson="Objects/Characters/SampleCharacter/firstperson.cdf" CharacterThirdPerson="Objects/Characters/SampleCharacter/thirdperson.cdf" DatabasePath="Animations/Mannequin/ADB/FirstPerson.adb" ControllerDefPath="Animations/Mannequin/ADB/FirstPersonControllerDefinition.xml" DefaultScope="FirstPersonCharacter" DefaultFragment="Idle" AnimDriven="false" GroundAlign="false"/>
+      <CameraProperties Active="true" NearPlane="0.050000001" FieldOfView="1.3089969"/>
+     </PlayerProperties>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+  </children>
+ </root>
+</CrySchematyc>
