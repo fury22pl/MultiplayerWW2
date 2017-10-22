@@ -4,7 +4,7 @@
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="d39f5920-4f30-0f24-590b-b44e077b3d93" Name="Entity-5" Pos="493.47205,488.85229,36.960499" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="ea39493b-a1fc-9679-d664-279d9fd60ef2" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="618c494c-4011-eb2c-fc01-3d59a2836da0" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>
@@ -38,12 +38,12 @@
      <Polygon GUID="7a64f771-f1f0-1e4a-88ec-9c098b3a6474" BinaryData="BAAAAAAAAEAnfT3AAAAAQNPCPMAAAAAAAAAAAAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAEAnfT3AAAAAQOcL8b8AAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAABAJ309wJoW5kEAAACAmhbmQcf7GcE6X4g/x/sZwTpfiD8AAACA"/>
      <Polygon GUID="84dcc737-6275-9d1f-1e57-15391bacbb97" BinaryData="BgAAAAAAAAAADcc/AAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAAAAEAnfT3AAAAAQOcL8b8AAAAAAAAAAAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAAAAEBvPxLAAAAAQOcL8b8AAAAAAAAAAAYAAAAAAAAAAQAAAAIAAAADAAAAAwAAAAQAAAAEAAAAAAAAAAEAAAAFAAAABQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAAAAAAAAQOcL8T8AaDi+6NUAwXr7kUDo1QDBOunrQQAAAIA66etBx/sZwQBoOL7H+xnBevuRQAAAAIA="/>
      <Polygon GUID="6169f809-cd13-9214-2c57-3feb2dbc2e74" BinaryData="BgAAAAAAAAAADcc/AAAAQOcL8b/T13IEvRogQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAAAADcc/AAAAQNPCPMAAAAAAAAAAAAAAAAAADcc/AAAAAAC61r/T13IEvRogQAAAAAAADcc/AAAAAAC61r8AAAAAAAAAAAYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAAEAAAAAAAAAAMAAAAFAAAABQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAANx786X4i/6NUAwTpfiL/H+xnBmhbmwcf7GcGaFubBAAAAAADQtb7o1QDBANC1vgAAAAA="/>
-     <Polygon GUID="39804fc0-e2fa-3cd3-f316-30c8b465247f" BinaryData="BAAAAAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAQAAAAAAAAAAwAAAAMAAAACAAAAAgAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8D/T13LoeD8jwABoOD6aFuZBOunrwZoW5kE66evBOl+IPwBoOD46X4g/"/>
-     <Polygon GUID="4c114878-b319-faf0-95bd-83ac9c045ab5" BinaryData="BgAAAAAAACA9G/e/AAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAAAAEBvPxLAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAAwDcFD8DT13IEvRogQAAAAODY8TvAAAAA4AEmO8DT13IEvRogQAAAACA9G/e/AAAA4AEmO8DT13IEvRogQAYAAAAAAAAABQAAAAUAAAAEAAAABAAAAAMAAAADAAAAAgAAAAIAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/09dyBL0aIEDp2bg/Ol+Iv3r7kUA6X4i/evuRQL4peMDHjt9Bvil4wMeO30EPMNnB6dm4Pw8w2cE="/>
+     <Polygon GUID="39804fc0-e2fa-3cd3-f316-30c8b465247f" BinaryData="BAAAAAAAAAAADcc/AAAAQNPCPMDT13LoeD8jQAAAAAAADcc/AAAAQOcL8b/T13LoeD8jQAAAAEAnfT3AAAAAQOcL8b/T13LoeD8jQAAAAEAnfT3AAAAAQNPCPMDT13LoeD8jQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8D/T13LoeD8jwABoOD6aFuZBAGg4PjpfiD866evBOl+IPzrp68GaFuZB"/>
+     <Polygon GUID="4c114878-b319-faf0-95bd-83ac9c045ab5" BinaryData="BgAAAAAAACA9G/e/AAAAQOcL8b/T13IEvRogQAAAACA9G/e/AAAA4AEmO8DT13IEvRogQAAAAODY8TvAAAAA4AEmO8DT13IEvRogQAAAAODY8TvAAAAAwDcFD8DT13IEvRogQAAAAEBvPxLAAAAAwDcFD8DT13IEvRogQAAAAEBvPxLAAAAAQOcL8b/T13IEvRogQAYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAABAAAAAQAAAAFAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/09dyBL0aIEDp2bg/Ol+Iv+nZuD8PMNnBx47fQQ8w2cHHjt9Bvil4wHr7kUC+KXjAevuRQDpfiL8="/>
      <Polygon GUID="4eb9b2ac-fe2a-45ed-c3da-fa7c9eec76aa" BinaryData="BAAAAAAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAAAAAMilE5QIl4fsGxWXG/iXh+wSi9Er9PyPzAKL0Sv0/I/MCxWXG/"/>
-     <Polygon GUID="b89b2c6e-59db-a261-dbb3-8262025a40fc" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D9QV7UVNivuv8eO38FPyPxAx47fwYl4fkFQjMrBiXh+QVCMysFPyPxA"/>
-     <Polygon GUID="373d9006-bce7-2c4a-8965-f042f49f2023" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BQV7UVNivuPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAY3zbdCZkfQMeO30EovRK/x47fQbFZcb9QjMpBsVlxv1CMykEovRK/"/>
-     <Polygon GUID="d47b92df-87de-6ea7-c6c2-7614b70a1c68" BinaryData="BAAAAAAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAAyKUTnAGN823QmZH8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L9GxYoHpVfiP8eO30GJeH7Bx47fQU/I/MBQjMpBT8j8wFCMykGJeH7B"/>
+     <Polygon GUID="b89b2c6e-59db-a261-dbb3-8262025a40fc" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwAAAAyKUTnAGd823QmZH8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D9QV7UVNivuv8eO38FPyPxAx47fwYl4fkFQjMrBiXh+QVCMysFPyPxA"/>
+     <Polygon GUID="373d9006-bce7-2c4a-8965-f042f49f2023" BinaryData="BAAAAAAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BQV7UVNivuPwAAAAyKUTnAGd823QmZH8BQV7UVNivuPwAAAAyKUTnAGd823QmZH8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAY3zbdCZkfQMeO30EovRK/x47fQbFZcb9QjMpBsVlxv1CMykEovRK/"/>
+     <Polygon GUID="d47b92df-87de-6ea7-c6c2-7614b70a1c68" BinaryData="BAAAAAAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAODY8TvAGd823QmZH8BGxYoHpVfiPwAAAAyKUTnAGd823QmZH8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L9GxYoHpVfiP8eO30GJeH7Bx47fQU/I/MBQjMpBT8j8wFCMykGJeH7B"/>
      <Polygon GUID="174a0218-217b-e6cc-9484-b8f3060bcc82" BinaryData="BAAAAAAAAODY8TvA85QOFRHPL8BQV7UVNivuPwAAAODY8TvA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BGxYoHpVfiPwAAAAyKUTnA85QOFRHPL8BQV7UVNivuPwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAAADzlA4VEc8vwMeO38GxWXG/x47fwSi9Er9QjMrBKL0Sv1CMysGxWXG/"/>
      <SmoothingGroups />
      <SemiSharpCrease />
@@ -68,7 +68,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="a259abb5-df99-28c2-05a0-9160e00cb5d1" Name="items::weapons::ak47-5" Pos="469.0274,490.03098,33.415848" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="899c281d-9756-b3fb-218f-17555cbdbd4e" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="f4125405-10db-e2ec-af16-726ad67ae077" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -80,7 +80,7 @@
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="2f555d53-da4e-2afd-5b61-83235fbe81d9" Name="Entity-6" Pos="488.54855,491.26773,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="38edd86a-d63d-a781-6972-b0d962611e92" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="329b2422-f3fb-356e-c53d-f01a10ee9979" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>
@@ -97,7 +97,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ee93820a-1253-2b29-081a-bbf32c8d626c" Name="items::weapons::ak47-3" Pos="468.95227,488.96201,33.289406" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="a9883815-71ea-6c1e-f62d-b7ba522c2ca1" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="9f2db3c1-477f-2c6f-0a9d-0a959ad02b18" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -123,7 +123,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="0f6c5f1d-6a04-4246-f0ab-b840f5b5c790" Name="items::weapons::ak47-6" Pos="467.9834,491.13193,33.524929" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="ae293d3d-1057-6b50-703b-3c71db1764be" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="624c4dfe-fe96-82e5-6dff-b20fc390db4e" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -135,7 +135,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="7834677f-7f6d-494a-8ed7-08527f2c4943" Name="items::weapons::ak47-7" Pos="468.87567,490.81891,33.381199" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="5962a501-9ab1-8fdf-cd02-6fb755f8fffc" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="9ddbabde-ef55-53cd-9494-39f7d31b6e58" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -161,7 +161,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ad4d9097-0a4c-7af1-b465-5580bda72c23" Name="items::weapons::ak47-4" Pos="467.85385,489.36545,33.696964" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="db8ce54f-ab2f-e6c5-1534-5ab6b81f2038" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="471f0327-9a2f-5b20-5d44-56bc0c69efd9" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -173,7 +173,7 @@
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="f3d4a58f-dab2-880c-7ccd-c9421d502be9" Name="Entity-7" Pos="487.97409,480.04672,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="089c0b8f-ef01-bc32-c9fc-46a908b22d5f" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="6ac0df27-f5d0-2e8e-5e73-d1a1b20d0203" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>
@@ -230,10 +230,29 @@
      </Component>
     </Components>
    </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="2f549eec-f153-9ba4-be61-b0b6ae601c6a" Name="Entity-8" Pos="491.71387,513.17975,31.718937" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="4135431d-51a1-49e5-a7e3-90490cacf2b7" TypeName="CCaptureAreaComponent" GUID="aa85c7e8-0945-a738-69c4-20308aedc326" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties>
+       <CPlayerAreaTriggerComponent />
+      </properties>
+     </Component>
+    </Components>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="a0c643da-7d34-a5e9-a938-fafac0b7c140" Name="items::weapons::ak47-1" Pos="468.59155,487.81775,33.477428" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="5e46a377-aaf5-cc09-76ad-8c73b2e5e829" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="b0d2c2e4-49a1-dd00-a40d-feab753607c5" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>
@@ -249,10 +268,29 @@
      <variables />
     </SchematycProperties>
    </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ebe19aa1-9746-acd5-7a9c-229d39a88cfa" Name="Entity-9" Pos="469.009,512.68622,31.719933" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="4135431d-51a1-49e5-a7e3-90490cacf2b7" TypeName="CCaptureAreaComponent" GUID="91e0416c-15d2-30f8-3f1e-7989312b3b2d" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties>
+       <CPlayerAreaTriggerComponent />
+      </properties>
+     </Component>
+    </Components>
+   </Object>
    <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="6676ec63-2454-b496-a313-f26f9c2c5882" Name="Entity-3" Pos="467.70319,490.50259,35.994301" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="f114e21b-01e9-030f-7414-66aa99b9298d" Name="" UserAdded="true">
+     <Component CryXmlVersion="2" TypeGUID="0a86908d-642f-4590-acef-484e8e39f31b" TypeName="Cry::DefaultComponents::CPointLightComponent" GUID="6c46a575-00f1-b203-3454-449982d7dadd" Name="" UserAdded="true">
       <Transform x="1" y="1" z="1">
        <translation>
         <element element="0"/>
@@ -325,7 +363,7 @@
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="5bbb6e93-dd64-eb15-e88f-a4d08374da1d" Name="items::weapons::ak47-2" Pos="468.82263,488.33115,33.421337" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
-     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="c881e303-abc1-826f-f6d6-2d0a1eb12979" Name="" UserAdded="false">
+     <Component CryXmlVersion="2" TypeGUID="16310d9e-00f4-41d2-8096-ef8010ed2f3a" TypeName="CFireModeComponent" GUID="de5cce6f-2661-5338-ca35-ec5101bcc18a" Name="" UserAdded="false">
       <properties />
      </Component>
     </Components>

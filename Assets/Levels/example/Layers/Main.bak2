@@ -77,6 +77,23 @@
      <variables />
     </SchematycProperties>
    </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="2f555d53-da4e-2afd-5b61-83235fbe81d9" Name="Entity-6" Pos="488.54855,491.26773,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="38edd86a-d63d-a781-6972-b0d962611e92" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties Team="Team 1"/>
+     </Component>
+    </Components>
+   </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="ee93820a-1253-2b29-081a-bbf32c8d626c" Name="items::weapons::ak47-3" Pos="468.95227,488.96201,33.289406" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::ak47" ClassGUID="21dcba7b-16d4-4f82-bb05-4c1f04627dd6" HasEntity="1">
     <Properties />
     <Components>
@@ -152,6 +169,23 @@
      <components />
      <variables />
     </SchematycProperties>
+   </Object>
+   <Object Type="EntityWithComponent" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="f3d4a58f-dab2-880c-7ccd-c9421d502be9" Name="Entity-7" Pos="487.97409,480.04672,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Entity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component CryXmlVersion="2" TypeGUID="118d66dd-6909-4468-b73a-4d48f5fe6ac8" TypeName="CSpawnPointComponent" GUID="089c0b8f-ef01-bc32-c9fc-46a908b22d5f" Name="" UserAdded="true">
+      <Transform x="1" y="1" z="1">
+       <translation>
+        <element element="0"/>
+        <element element="0"/>
+        <element element="0"/>
+       </translation>
+       <rotation x="0" y="-0" z="0"/>
+       <scale />
+      </Transform>
+      <properties Team="Team 2"/>
+     </Component>
+    </Components>
    </Object>
    <Object Type="Entity" Layer="Main" LayerGUID="7340c184-12af-b894-7961-90b865d02bb8" Id="8eef4e12-5682-8b6d-61a1-e748e1466cda" Name="items::weapons::47pack-1" Pos="468.78677,479.16379,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="schematyc::items::weapons::47pack" ClassGUID="1ede345d-e06f-4c3e-b447-b0eb929fb87b" HasEntity="1">
     <Properties />
