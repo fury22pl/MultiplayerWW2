@@ -14,6 +14,7 @@
   <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
   <Path>%engine%/engineassets/materials/fog/fogvolumebox.mtl</Path>
   <Path>%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl</Path>
+  <Path>%engine%/engineassets/materials/material_default.mtl</Path>
   <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
   <Path>%engine%/engineassets/materials/sky/sky.mtl</Path>
   <Path>%engine%/engineassets/materials/water/ocean_default.mtl</Path>
@@ -95,10 +96,14 @@
   <Path>objects/default/editorprimitive.mtl</Path>
   <Path>objects/default/primitive_cube.cgf</Path>
   <Path>objects/default/primitive_cube_small.cgf</Path>
+  <Path>objects/default/tiger_tank_thefront.cgf</Path>
   <Path>objects/oildepot/box.cgf</Path>
   <Path>objects/oildepot/ground.cgf</Path>
   <Path>objects/oildepot/oil.cgf</Path>
   <Path>objects/oildepot/oil_mat.mtl</Path>
+  <Path>substance/rusted_painted_metal_ddn.dds</Path>
+  <Path>substance/rusted_painted_metal_ddna.dds</Path>
+  <Path>substance/rusted_painted_metal_height.dds</Path>
   <Path>textures/cubemaps/frontcombat/entity-6_cm.dds</Path>
   <Path>textures/cubemaps/frontcombat/entity-6_cm_diff.dds</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.cgf</Path>
