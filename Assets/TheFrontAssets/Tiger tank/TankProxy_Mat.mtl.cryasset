@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="2e377f50-936f-0740-1ecf-17a9bb517be5">
+ <Files>
+  <File path="TankProxy_Mat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">1</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

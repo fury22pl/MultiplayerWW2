@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Character" guid="56622db4-24c3-1384-95c2-24f5a4ac2f93">
+ <Files>
+  <File path="tigertank.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>TheFrontAssets/Tiger tank/TigerSkeleton.chr</Path>
+  <Path>TheFrontAssets/Tiger tank/TigerSkeletonMat.mtl</Path>
+  <Path>TheFrontAssets/Tiger tank/tigertankbody.cgf</Path>
+  <Path>TheFrontAssets/Tiger tank/TigerTankBodyMat.mtl</Path>
+  <Path>TheFrontAssets/Tiger tank/TrackSet_01_Skin.skin</Path>
+  <Path>TheFrontAssets/Tiger tank/TrackSet_01_SkinMat.mtl</Path>
+  <Path>TheFrontAssets/Tiger tank/TrackSet_02_Skin.skin</Path>
+  <Path>TheFrontAssets/Tiger tank/TrackSet_01_SkinMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

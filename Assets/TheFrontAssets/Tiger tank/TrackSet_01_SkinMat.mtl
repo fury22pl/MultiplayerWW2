@@ -1,0 +1,13 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="tank1" MtlFlags="524416" Shader="Illum" GenMask="80000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.122,0.122,0.122" Specular="0.439803,0.439803,0.439803" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="tank4" MtlFlags="524416" Shader="Illum" GenMask="80000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.122,0.122,0.122" Specular="0.32440099,0.32440099,0.32440099" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

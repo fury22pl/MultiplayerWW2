@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="aed15296-670c-a531-fe57-b57372e4613d">
+ <Files>
+  <File path="TigerTankBodyMat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">1</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

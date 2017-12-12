@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Character" guid="0e53d862-9b25-cab8-ff4c-9d2dbd82c4cf">
+ <Files>
+  <File path="tiger tank.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>./</Path>
+ </Dependencies>
+</AssetMetadata>

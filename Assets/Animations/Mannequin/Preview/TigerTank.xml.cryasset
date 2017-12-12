@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="4cd04518-6398-0932-cec4-367b3f3dcd34">
+ <Files>
+  <File path="TigerTank.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">MannequinPreview</Detail>
+ </Details>
+</AssetMetadata>

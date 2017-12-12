@@ -9,13 +9,13 @@
 		</GFx>
 		<functions>
 			<function name="Init" funcname="Init" desc=""/>
-			<function name="AddKillMessage" funcname="AddMessage" desc="">
+			<function name="AddKillMessage" funcname="AddKillMessage" desc="">
 				<param name="killer" desc="" type="string"/>
 				<param name="kMyTeam" desc="" type="bool"/>
 				<param name="victim" desc="" type="string"/>
 				<param name="vMyTeam" desc="" type="bool"/>
 			</function>
-			<function name="AddJoinMessage" funcname="AddMessage" desc="">
+			<function name="AddJoinMessage" funcname="AddJoinMessage" desc="">
 				<param name="joiner" desc="" type="string"/>
 				<param name="team" desc="" type="string"/>
 			</function>

@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="a8dc6600-61b1-3036-8fdf-72d10eda0212" source="Tiger Tank.fbx">
+ <Files>
+  <File path="Tiger Tank.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">6</Detail>
+  <Detail name="triangleCount">168741</Detail>
+  <Detail name="vertexCount">322657</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>%ENGINE%/EngineAssets/Materials/material_default.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

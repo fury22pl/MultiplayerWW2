@@ -1,0 +1,23 @@
+<AssetMetadata version="0" type="Material" guid="9165ebf6-c2b5-ffe0-4808-4bf7fac4a1b5">
+ <Files>
+  <File path="tigermat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">6</Detail>
+  <Detail name="textureCount">12</Detail>
+ </Details>
+ <Dependencies>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+  <Path>textures/defaults/white.dds</Path>
+  <Path>Objects/pbs_reference/gloss0_ddna.dds</Path>
+ </Dependencies>
+</AssetMetadata>

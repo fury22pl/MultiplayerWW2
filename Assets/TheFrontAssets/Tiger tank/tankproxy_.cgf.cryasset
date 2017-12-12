@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="be1b91ab-a5ee-72cc-692f-492cdf83575b" source="Tank.dae.zip">
+ <Files>
+  <File path="tankproxy_.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">0</Detail>
+  <Detail name="vertexCount">0</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./TankProxy_Mat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

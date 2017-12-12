@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="62b5936c-8be9-6c82-3293-3ca69fb91ccb">
+ <Files>
+  <File path="AK47SkelMat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">1</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

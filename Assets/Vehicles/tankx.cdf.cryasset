@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Character" guid="1703a63f-49e2-6c96-966f-f4a0e7a1fb70">
+ <Files>
+  <File path="tankx.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>objects/vehicles/VehicleSkel.chr</Path>
+  <Path>Items/Weapons/AK47/AK47SkelMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

@@ -1,0 +1,15 @@
+<ControllerDef>
+ <Tags filename="Animations/Mannequin/ADB/TigerTank/Tags.xml"/>
+ <Fragments filename="Animations/Mannequin/ADB/TigerTank/FragmentIds.xml"/>
+ <FragmentDefs>
+  <Movement scopes="Default" flags="Persistent+AutoReinstall"/>
+ </FragmentDefs>
+ <ScopeContextDefs>
+  <FirstPersonCharacter />
+  <ThirdPersonCharacter />
+  <DefaultContext />
+ </ScopeContextDefs>
+ <ScopeDefs>
+  <Default layer="0" numLayers="3" context="DefaultContext"/>
+ </ScopeDefs>
+</ControllerDef>

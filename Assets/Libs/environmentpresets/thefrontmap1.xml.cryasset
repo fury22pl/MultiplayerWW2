@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="b3ac2e78-428f-4f1a-54ad-4050b8b6c100">
+ <Files>
+  <File path="thefrontmap1.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">EnvironmentPreset</Detail>
+ </Details>
+</AssetMetadata>

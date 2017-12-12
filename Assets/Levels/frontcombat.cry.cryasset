@@ -101,14 +101,35 @@
   <Path>objects/oildepot/ground.cgf</Path>
   <Path>objects/oildepot/oil.cgf</Path>
   <Path>objects/oildepot/oil_mat.mtl</Path>
-  <Path>substance/rusted_painted_metal_ddn.dds</Path>
-  <Path>substance/rusted_painted_metal_ddna.dds</Path>
-  <Path>substance/rusted_painted_metal_height.dds</Path>
+  <Path>objects/vehicles/abrams_old/abrams.cga</Path>
+  <Path>objects/vehicles/abrams_old/abrams.mtl</Path>
+  <Path>objects/vehicles/abrams_old/abrams_lod1.cga</Path>
+  <Path>objects/vehicles/abrams_old/abrams_lod2.cga</Path>
+  <Path>objects/vehicles/abrams_old/abrams_lod3.cga</Path>
+  <Path>objects/vehicles/abrams_old/abrams_lod4.cga</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_damage.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_decals.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_grating.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_grating_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_hull.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_hull_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_misc.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_misc_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_skirt.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_skirt_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_track.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_track_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_turret.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_turret_ddna.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_wheels.dds</Path>
+  <Path>objects/vehicles/abrams_old/textures/abrams_wheels_ddna.dds</Path>
+  <Path>objects/vehicles/vehicleskel.chr</Path>
   <Path>textures/cubemaps/frontcombat/entity-6_cm.dds</Path>
   <Path>textures/cubemaps/frontcombat/entity-6_cm_diff.dds</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.cgf</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower.mtl</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower_lod1.cgf</Path>
   <Path>thefrontassets/industrial_buildings_199/objects/aaa_crytek_assets/architecture/buildings_industrial/watertower/watertower_lod2.cgf</Path>
+  <Path>vehicles/tankx.cdf</Path>
  </Dependencies>
 </AssetMetadata>

@@ -1,0 +1,6 @@
+<AssetMetadata version="0" type="SkinnedMesh" guid="a809d721-6803-0ac7-5bcb-15d0f3ba3b58" source="Tank.dae.zip">
+ <Files>
+  <File path="bodyskin.skin"/>
+ </Files>
+ <Details />
+</AssetMetadata>

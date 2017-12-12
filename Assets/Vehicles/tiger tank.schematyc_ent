@@ -1,0 +1,105 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="7cb39309-f604-4ddd-8fb7-3fa009f73dd5" scope="">
+ <root elementType="Class" guid="d97742c1-6075-430b-a564-d64302d03499" name="Tiger tank">
+  <userDocumentation author="micha" description=""/>
+  <extensions />
+  <children>
+   <element elementType="Constructor" guid="4bcb63ef-bb28-40e9-87e9-cb1079c14854" name="ConstructionGraph">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="604553ab-4894-4851-bff9-631fda505ebf" typeGUID="12bdfa06-ba95-4e48-bb2d-bb48a7080abc">
+        <value guid="604553ab-4894-4851-bff9-631fda505ebf">
+         <pos x="0" y="0"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="SignalReceiver" guid="aa12895b-db01-4794-9b3c-ff37b9b4e639" name="SignalGraph" type="Universal" signalGUID="">
+    <userDocumentation author="micha" description=""/>
+    <extensions>
+     <Graph>
+      <pos x="0" y="0"/>
+      <nodes>
+       <element key="c00ba8c5-7981-41dd-8fb6-47eb63941db2" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="c00ba8c5-7981-41dd-8fb6-47eb63941db2" objectGUID="">
+         <pos x="0" y="200"/>
+         <signalId domain="Env" guid="b2561caa-0753-458b-a91f-e8e38b0f0cdf"/>
+        </value>
+       </element>
+       <element key="e44ae648-ef61-4a63-9ccf-09c76f99a6b5" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="e44ae648-ef61-4a63-9ccf-09c76f99a6b5" objectGUID="">
+         <pos x="0" y="0"/>
+         <signalId domain="Env" guid="a9279137-7c66-491d-b9a0-8752c24c8979"/>
+        </value>
+       </element>
+       <element key="9187a3da-bb36-4ac2-b538-65f382a9c033" typeGUID="ad2aee64-0a60-4469-8ec7-38b4b720d30c">
+        <value guid="9187a3da-bb36-4ac2-b538-65f382a9c033" objectGUID="">
+         <pos x="0" y="100"/>
+         <signalId domain="Env" guid="52ad5add-7781-429b-b4a9-0cb6c905e353"/>
+        </value>
+       </element>
+      </nodes>
+      <links />
+     </Graph>
+    </extensions>
+    <children />
+   </element>
+   <element elementType="Base" guid="a934e070-e54a-4a3a-b252-a6888274984d" name="Base [Entity]">
+    <classId domain="Env" guid="be845278-0dd2-409f-b8be-97895607c256"/>
+    <envClassProperties icon="%EDITOR%/objecticons/schematyc.bmp" bHideInEditor="false" bTriggerAreas="true"/>
+    <extensions />
+    <children>
+     <element elementType="ComponentInstance" guid="47cb4916-eabe-4a2d-a2bb-0522f7d4e69d" name="Entity" accessor="Private" typeGUID="e88093df-904f-4c52-af38-911e26777cdc">
+      <properties />
+      <extensions />
+      <children />
+     </element>
+    </children>
+   </element>
+   <element elementType="ComponentInstance" guid="532e1cc3-bd18-4dec-950d-091dcd45bcd3" name="Ground vehicle" accessor="Private" typeGUID="58e8dcc9-cb17-4771-b14f-a77f2107dc43">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <ItemProperties Pickable="true">
+      <RenderProperties GeometryPath="TheFrontAssets/Tiger tank/tankproxy_.cgf" CharacterPath="TheFrontAssets/Tiger tank/tigertank.cdf" MaterialPath="TheFrontAssets/Tiger tank/TankProxy_Mat.mtl"/>
+      <PhysicProperties Mass="30000"/>
+     </ItemProperties>
+     <VehicleProperties CabineSlots="4" MaxSpeed="0">
+      <AnimationProperties Type="RenderAndCollider" DatabasePath="Animations/Mannequin/ADB/TigerTank/Database.adb" ControllerDefPath="Animations/Mannequin/ADB/TigerTank/ControllerDefs.xml" DefaultScope="DefaultContext" DefaultFragment="Movement"/>
+     </VehicleProperties>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+   <element elementType="ComponentInstance" guid="a07db6b3-2705-4810-b9da-6930a86cd601" name="Engine Component" accessor="Private" typeGUID="38b1a20a-3620-49f7-9be9-eac8c0b95910">
+    <transform x="1" y="1" z="1">
+     <translation>
+      <element element="0"/>
+      <element element="0"/>
+      <element element="0"/>
+     </translation>
+     <rotation x="0" y="0" z="0"/>
+     <scale />
+    </transform>
+    <properties>
+     <EngineProperties StartTime="5" IdleRpm="780" MaxRpm="4000" ForwardGears="5" BackwardGears="3" ForwardGear0="6.5423388" ForwardGear1="10.903426" ForwardGear2="13.084111" ForwardGear3="21.806852" ForwardGear4="41.433025" ForwardGear5="0" ForwardGear6="0" ForwardGear7="0" ForwardGear8="0" ForwardGear9="0" BackwardGear0="4.361371" BackwardGear1="8.7227411" BackwardGear2="13.084111" BackwardGear3="0" BackwardGear4="0" BackwardGear5="0" BackwardGear6="0" BackwardGear7="0" BackwardGear8="0" BackwardGear9="0" Thousand1="1028.0386" Thousand2="1246.1056" Thousand3="1526.4788" Thousand4="1121.4951" Thousand5="0" Thousand6="0" Thousand7="0" Thousand8="0" Thousand9="0" Thousand10="0"/>
+    </properties>
+    <extensions />
+    <children />
+   </element>
+  </children>
+ </root>
+</CrySchematyc>

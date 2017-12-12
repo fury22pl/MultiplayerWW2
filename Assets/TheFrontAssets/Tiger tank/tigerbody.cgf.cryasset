@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="af697690-f483-81d6-7e82-a057498d2def" source="Tank.dae.zip">
+ <Files>
+  <File path="tigerbody.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">102741</Detail>
+  <Detail name="vertexCount">162624</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./TigerTankBodyMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

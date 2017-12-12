@@ -1,0 +1,6 @@
+<download name="TheFrontMap1" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="667695" md5="25abd071574be9786f0af426276ff372"/>
+ </files>
+</download>

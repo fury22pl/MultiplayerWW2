@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Character" guid="2df8bed4-94ad-8868-07ef-2bac1d655b2c">
+ <Files>
+  <File path="TigerTank.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>objects/vehicles/VehicleSkel.chr</Path>
+  <Path>Objects/Vehicles/Tiger Tank/AK47SkelMat.mtl</Path>
+  <Path>Objects/Vehicles/Tiger Tank/Tiger_Tank.cgf</Path>
+  <Path>Objects/Vehicles/Tiger Tank/AK47SkelMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

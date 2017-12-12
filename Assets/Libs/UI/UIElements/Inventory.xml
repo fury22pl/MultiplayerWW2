@@ -1,0 +1,60 @@
+<UIElements name="Inventory">
+
+	<UIElement name="Inventory" render_lockless="1">
+
+		<GFx file="Inventory.gfx" layer="0">
+			<Constraints>
+				<Align mode="dynamic" valign="center" halign="center" scale="1" max="1"/>
+			</Constraints>
+		</GFx>
+		<functions>
+			<function name="clear" funcname="clear" desc=""/>
+			<function name="AddItem" funcname="AddItem" desc="">
+				<param name="name" desc="" type="string"/>
+				<param name="slot" desc="" type="int"/>
+				<param name="type" desc="" type="int"/>
+				<param name="bullets" desc="" type="int"/>
+			</function>
+			<function name="RemoveActiveItem" funcname="RemoveActiveItem" desc=""/>
+			<function name="RemoveItem" funcname="RemoveItem" desc="">
+				<param name="slot" desc="" type="int"/>
+				<param name="type" desc="" type="int"/>
+			</function>
+			<function name="Activate" funcname="Activate" desc="">
+				<param name="slot" desc="" type="int"/>
+			</function>
+			<function name="Deactivate" funcname="Deactivate" desc=""/>
+			<function name="SetBullet" funcname="SetBullet" desc="">
+				<param name="name" desc="" type="string"/>
+				<param name="line" desc="" type="int"/>
+				<param name="count" desc="" type="int"/>
+			</function>
+			<function name="ShowInventory" funcname="ShowInventory" desc="">
+				<param name="show" desc="" type="bool"/>
+			</function>
+		</functions>
+		<events>
+			<event name="Drag_Item" funcname="Drag_Item" desc="">
+				<param name="thisItem.curSlot.index" desc="" type="int"/>
+			</event>
+			<event name="Drop_Item" funcname="Drop_Item" desc="">
+				<param name="index" desc="" type="int"/>
+			</event>
+			<event name="SwapSlots" funcname="SwapSlots" desc="">
+				<param name="swapCommand" desc="" type="string"/>
+			</event>
+			<event name="DropAmmoClip" funcname="DropAmmoClip" desc="">
+				<param name="thisItem.curSlot.index" desc="" type="int"/>
+			</event>
+			<event name="DropItem" funcname="DropItem" desc="">
+				<param name="thisItem.curSlot.index" desc="" type="int"/>
+			</event>
+		</events>
+		<variables>
+		</variables>
+		<Arrays>
+	    </Arrays>
+		<MovieClips>
+		</MovieClips>
+	</UIElement>	
+</UIElements>

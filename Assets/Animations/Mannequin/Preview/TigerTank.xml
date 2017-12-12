@@ -1,0 +1,7 @@
+<MannequinPreview>
+ <controllerDef filename="Animations/Mannequin/ADB/TigerTank/ControllerDefs.xml"/>
+ <contexts>
+  <contextData name="Default" enabled="1" database="Animations/Mannequin/ADB/TigerTank/Database.adb" context="DefaultContext" model="thefrontassets/tiger tank/tigertank.cdf"/>
+ </contexts>
+ <History StartTime="0" EndTime="0"/>
+</MannequinPreview>

@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="e0b174f2-f138-b500-60e3-1fff2f7898a9" source="Tank.dae.zip">
+ <Files>
+  <File path="trackset_raw.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">66000</Detail>
+  <Detail name="vertexCount">105845</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./TrackSet_SkinMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

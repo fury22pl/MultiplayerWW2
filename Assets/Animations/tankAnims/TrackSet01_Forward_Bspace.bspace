@@ -1,0 +1,12 @@
+<ParaGroup>
+ <Dimensions>
+  <Param Name="MoveSpeed" Min="0" Max="5" Cells="9"/>
+ </Dimensions>
+ <ExampleList>
+  <Example SetPara0="0" AName="TrackSet01_Forward" PlaybackScale="0"/>
+  <Example SetPara0="5" AName="TrackSet01_Forward"/>
+ </ExampleList>
+ <Blendable>
+  <Face p0="0" p1="1"/>
+ </Blendable>
+</ParaGroup>

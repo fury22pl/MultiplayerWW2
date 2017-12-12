@@ -48,6 +48,26 @@
 				<param name="team" desc="" type="int"/>
 				<param name="score" desc="" type="int"/>
 			</function>
+			<function name="SetVehicle" funcname="SetVehicle" desc="">
+				<param name="name" desc="" type="string"/>
+				<param name="rpm" desc="" type="int"/>
+				<param name="gear" desc="" type="int"/>
+				<param name="gear_max" desc="" type="int"/>
+			</function>
+			<function name="UpdateVehicleInfo" funcname="UpdateVehicleInfo" desc="">
+				<param name="rpm" desc="" type="int"/>
+				<param name="gear" desc="" type="int"/>
+				<param name="gear_max" desc="" type="int"/>
+			</function>
+			<function name="VehicleInfoShow" funcname="VehicleInfoShow" desc="">
+				<param name="show" desc="" type="bool"/>
+			</function>
+			<function name="UpdateTeamInfo" funcname="UpdateTeamInfo" desc="">
+				<param name="tm_first" desc="" type="string"/>
+				<param name="tm_second" desc="" type="string"/>
+				<param name="tm_first_score" desc="" type="int"/>
+				<param name="tm_second_score" desc="" type="int"/>
+			</function>
 		</functions>
 		<events>
 		</events>

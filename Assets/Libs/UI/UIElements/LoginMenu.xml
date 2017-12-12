@@ -10,6 +10,7 @@
 		<functions>
 			<function name="Init" funcname="Init" desc=""/>
 			<function name="NoAccess" funcname="NoAccess" desc=""/>
+			<function name="CreateNoAccess" funcname="CreateNoAccess" desc=""/>
 		</functions>
 		<events>
 			<event name="Exit" funcname="Exit" desc=""/>
@@ -17,6 +18,12 @@
 				<param name="LoginInput.text" desc="" type="string"/>
 			</event>
 			<event name="ReceivePasswordAndLogIn" funcname="ReceivePasswordAndLogIn" desc="">
+				<param name="PasswordInput.text" desc="" type="string"/>
+			</event>
+			<event name="CreateAccount" funcname="CreateAccount" desc="">
+				<param name="LoginInput.text" desc="" type="string"/>
+			</event>
+			<event name="CreateAccountAndLogIn" funcname="CreateAccountAndLogIn" desc="">
 				<param name="PasswordInput.text" desc="" type="string"/>
 			</event>
 		</events>

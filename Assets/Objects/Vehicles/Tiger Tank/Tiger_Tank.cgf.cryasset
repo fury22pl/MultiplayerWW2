@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="d94b7e7e-72cc-2a30-9cd3-7b4bf19d4dd9" source="tiger_tank_thefront.FBX">
+ <Files>
+  <File path="Tiger_Tank.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">7</Detail>
+  <Detail name="triangleCount">168741</Detail>
+  <Detail name="vertexCount">324282</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>Objects/Vehicles/Tiger Tank/TigerMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

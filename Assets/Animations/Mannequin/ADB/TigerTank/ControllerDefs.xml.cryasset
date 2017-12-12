@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="803c886e-8638-a8b8-9175-3bf41c2e3223">
+ <Files>
+  <File path="ControllerDefs.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">ControllerDef</Detail>
+ </Details>
+</AssetMetadata>

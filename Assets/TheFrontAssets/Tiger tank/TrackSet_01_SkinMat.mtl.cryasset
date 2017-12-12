@@ -1,0 +1,9 @@
+<AssetMetadata version="0" type="Material" guid="4f1adcea-5cf4-7902-0831-612eed0ded80">
+ <Files>
+  <File path="TrackSet_01_SkinMat.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">2</Detail>
+  <Detail name="textureCount">0</Detail>
+ </Details>
+</AssetMetadata>

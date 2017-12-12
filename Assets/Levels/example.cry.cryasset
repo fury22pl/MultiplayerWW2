@@ -29,6 +29,9 @@
   <Path>%engine%/engineassets/textures/defaults/16_grey.dds</Path>
   <Path>%engine%/engineassets/textures/grey.dds</Path>
   <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
+  <Path>animations/mannequin/adb/tigertank/controllerdefs.xml</Path>
+  <Path>animations/mannequin/adb/tigertank/fragmentids.xml</Path>
+  <Path>animations/mannequin/adb/tigertank/tags.xml</Path>
   <Path>animations/motusanims/ide2move/idle_to_jog_3p.caf</Path>
   <Path>animations/motusanims/ide2move/idle_to_run_3p.caf</Path>
   <Path>animations/motusanims/ide2move/idle_to_walk_3p.caf</Path>
@@ -82,6 +85,10 @@
   <Path>animations/motusanims/turns/walkturn_rgt_3p.caf</Path>
   <Path>animations/motusanims/walk_bck_3p.caf</Path>
   <Path>animations/motusanims/walk_fwd_3p.caf</Path>
+  <Path>animations/tankanims/trackset01_backward.caf</Path>
+  <Path>animations/tankanims/trackset01_forward.caf</Path>
+  <Path>animations/tankanims/trackset02_backward.caf</Path>
+  <Path>animations/tankanims/trackset02_forward.caf</Path>
   <Path>engineassets/textures/grey.dds</Path>
   <Path>items/weapons/ak47/ak47.cdf</Path>
   <Path>items/weapons/ak47/ak47.cgf</Path>
@@ -93,5 +100,17 @@
   <Path>materials/objects.mtl</Path>
   <Path>objects/default/editorprimitive.mtl</Path>
   <Path>objects/default/primitive_cube.cgf</Path>
+  <Path>objects/default/primitive_cube_small.cgf</Path>
+  <Path>thefrontassets/tiger tank/tankproxy_.cgf</Path>
+  <Path>thefrontassets/tiger tank/tankproxy_mat.mtl</Path>
+  <Path>thefrontassets/tiger tank/tigerskeleton.chr</Path>
+  <Path>thefrontassets/tiger tank/tigerskeletonmat.mtl</Path>
+  <Path>thefrontassets/tiger tank/tigertank.cdf</Path>
+  <Path>thefrontassets/tiger tank/tigertankbody.cgf</Path>
+  <Path>thefrontassets/tiger tank/tigertankbodymat.mtl</Path>
+  <Path>thefrontassets/tiger tank/trackset_01_skin.skin</Path>
+  <Path>thefrontassets/tiger tank/trackset_01_skinmat.mtl</Path>
+  <Path>thefrontassets/tiger tank/trackset_02_skin.skin</Path>
+  <Path>thefrontassets/tiger tank/trackset_skinmat.mtl</Path>
  </Dependencies>
 </AssetMetadata>

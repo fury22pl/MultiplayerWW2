@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="SkinnedMesh" guid="4260bfb3-8e28-9572-1bec-531b45c1c634" source="Tank.dae.zip">
+ <Files>
+  <File path="TrackSet_02_Skin.skin"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">33000</Detail>
+  <Detail name="vertexCount">54039</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+  <Detail name="bonesCount">201</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./TrackSet_SkinMat.mtl</Path>
+ </Dependencies>
+</AssetMetadata>
