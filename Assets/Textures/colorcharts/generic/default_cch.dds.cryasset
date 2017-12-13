@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="f92bde25-b95c-def4-855e-5ba5d324571a">
+ <Files>
+  <File path="default_cch.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">256</Detail>
+  <Detail name="height">16</Detail>
+  <Detail name="mipCount">1</Detail>
+ </Details>
+</AssetMetadata>

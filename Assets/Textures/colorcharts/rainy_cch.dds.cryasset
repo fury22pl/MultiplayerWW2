@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="5dd68127-f18c-d233-6fe7-ed32e6ee720b">
+ <Files>
+  <File path="rainy_cch.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">256</Detail>
+  <Detail name="height">16</Detail>
+  <Detail name="mipCount">1</Detail>
+ </Details>
+</AssetMetadata>

@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="cbaebe45-9616-2d7f-18fe-011edc8bdd36">
+ <Files>
+  <File path="art_benchmark_cch.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">256</Detail>
+  <Detail name="height">16</Detail>
+  <Detail name="mipCount">1</Detail>
+ </Details>
+</AssetMetadata>

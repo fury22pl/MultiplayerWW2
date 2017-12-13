@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Texture" guid="c3b45a5b-a1c0-77a8-00d5-b720ea832462">
+ <Files>
+  <File path="distanceclouds.dds"/>
+  <File path="distanceclouds.dds.1"/>
+  <File path="distanceclouds.dds.2"/>
+  <File path="distanceclouds.dds.3"/>
+  <File path="distanceclouds.dds.4"/>
+  <File path="distanceclouds.dds.5"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>
