@@ -1,0 +1,55 @@
+<ObjectLayer>
+ <Layer Name="Main" FullName="Main" GUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Hidden="0" Frozen="0" Expanded="0" Type="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="be3b6318-ee0c-1a09-3524-161c4bd5bed6" Name="fishing_house_c-1" Pos="144.99518,68.901947,32" FloorNumber="-1" Rotate="0.67154622,0,0,-0.74096268" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/architecture/buildings/fishing_houses/fishing_house_c.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Road" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="8c8cebe9-b63a-1b57-d3a3-a7a52a2e5c7c" Name="Road-1" Pos="113,255,32.099998" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/roads/mud_road" Width="7.5" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="4" ViewDistRatio="100" TileLength="4" SortPriority="0" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="-3.4606192,-21.388515,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="0,-65,0" Back="-7.2111015,-44.568542,0" Forw="5.7271285,-81.226868,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="36,-102,0" Back="32.200058,-85.216927,0" Forw="41.155228,-124.76892,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="24,-171,0" Back="25.98937,-147.73969,0" Forw="21.642208,-198.56804,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="23,-254,0" Back="23.311022,-228.18521,9.9526863" Forw="22.880096,-263.95197,-3.8369014" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="23,-254,-31.999998" Back="23,-254,-21.333332" Forw="23,-254,-31.999998" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="3c969d87-73d1-1c8f-8133-9481e4dad951" Name="pine_large_snowy-2" Pos="120,57,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="4c8672c0-8993-3581-1412-96ceb5a1bb02" Name="fishing_house_a-2" Pos="129,48,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/architecture/buildings/fishing_houses/fishing_house_a.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="79a8edc1-54d1-38c0-c3bb-94ba18019d41" Name="pine_large_snowy-1" Pos="125,68,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="c4255a77-bac6-39ab-f944-025ac90b1e2e" Name="pine_large_snowy-4" Pos="146,39,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="91ae7238-5ec6-6d98-72a6-7f8ad1caab61" Name="pine_small_snowy-1" Pos="125,35,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_small_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="f8130493-27e2-ad25-ca80-e249d3cb339e" Name="pine_large_snowy-6" Pos="161,68,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="a22bdcb1-5d3a-c0da-b742-a4bdd5a7b86f" Name="pine_large_snowy-5" Pos="150,52,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="3228a10e-7839-c151-8c5d-6103ca61a3ae" Name="forest_skydome-1" Pos="135,48,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/sky/forest_skydome.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="1" Hideable="0" LodRatio="98" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710952">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="7c737485-3400-c8c9-2b2a-9cf1c60880af" Name="pine_large_snowy-3" Pos="120,45,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_large_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="6999da66-434c-d3ff-9f5e-2902f40b7c35" Name="wooden_barrel_b-1" Pos="140,43,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/maritime/wooden_barrel/wooden_barrel_b.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="113196f6-a1d5-da1b-1219-b22d09b03368" Name="pine_small_snowy-2" Pos="153,33,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/Natural/trees/pine/pine_small_snowy.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="1" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1612710920">
+    <CollisionFiltering />
+   </Object>
+   <Object Type="Brush" Layer="Main" LayerGUID="dff4c308-6fcc-822b-d26c-aeb65005f7b7" Id="fbe263ff-84ed-e474-1e47-abbba08b82b1" Name="fishing_house_a-1" Pos="142,48,32" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/architecture/buildings/fishing_houses/fishing_house_a.cgf" IgnoreVisareas="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering />
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

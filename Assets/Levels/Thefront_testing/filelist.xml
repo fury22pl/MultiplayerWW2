@@ -1,0 +1,6 @@
+<download name="Thefront_testing" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="136727" md5="99fde5df87d03f0958a178958dd5c9a0"/>
+ </files>
+</download>
