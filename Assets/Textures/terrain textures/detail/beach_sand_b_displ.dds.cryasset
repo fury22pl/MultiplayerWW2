@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Texture" guid="52217054-3893-a053-2155-ce689534cacf">
+ <Files>
+  <File path="beach_sand_b_displ.dds"/>
+  <File path="beach_sand_b_displ.dds.1"/>
+  <File path="beach_sand_b_displ.dds.2"/>
+  <File path="beach_sand_b_displ.dds.3"/>
+  <File path="beach_sand_b_displ.dds.4"/>
+  <File path="beach_sand_b_displ.dds.5"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>
