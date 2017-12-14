@@ -1,0 +1,25 @@
+<AssetMetadata version="0" type="Texture" guid="f52cb1ef-b940-bb98-f4f8-9ac198044777">
+ <Files>
+  <File path="grass_5_ddna.dds"/>
+  <File path="grass_5_ddna.dds.a"/>
+  <File path="grass_5_ddna.dds.1"/>
+  <File path="grass_5_ddna.dds.1a"/>
+  <File path="grass_5_ddna.dds.2"/>
+  <File path="grass_5_ddna.dds.2a"/>
+  <File path="grass_5_ddna.dds.3"/>
+  <File path="grass_5_ddna.dds.3a"/>
+  <File path="grass_5_ddna.dds.4"/>
+  <File path="grass_5_ddna.dds.4a"/>
+  <File path="grass_5_ddna.dds.5"/>
+  <File path="grass_5_ddna.dds.5a"/>
+  <File path="grass_5_ddna.dds.6"/>
+  <File path="grass_5_ddna.dds.6a"/>
+  <File path="grass_5_ddna.dds.7"/>
+  <File path="grass_5_ddna.dds.7a"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>
