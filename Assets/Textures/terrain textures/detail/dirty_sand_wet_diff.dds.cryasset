@@ -1,0 +1,17 @@
+<AssetMetadata version="0" type="Texture" guid="0c910db3-83a3-5634-d176-41b2b0b9ec72">
+ <Files>
+  <File path="dirty_sand_wet_diff.dds"/>
+  <File path="dirty_sand_wet_diff.dds.1"/>
+  <File path="dirty_sand_wet_diff.dds.2"/>
+  <File path="dirty_sand_wet_diff.dds.3"/>
+  <File path="dirty_sand_wet_diff.dds.4"/>
+  <File path="dirty_sand_wet_diff.dds.5"/>
+  <File path="dirty_sand_wet_diff.dds.6"/>
+  <File path="dirty_sand_wet_diff.dds.7"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>
