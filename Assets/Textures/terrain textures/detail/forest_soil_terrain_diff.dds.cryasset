@@ -1,0 +1,17 @@
+<AssetMetadata version="0" type="Texture" guid="674de781-6b75-223d-132d-93a5be937ca8">
+ <Files>
+  <File path="forest_soil_terrain_diff.dds"/>
+  <File path="forest_soil_terrain_diff.dds.1"/>
+  <File path="forest_soil_terrain_diff.dds.2"/>
+  <File path="forest_soil_terrain_diff.dds.3"/>
+  <File path="forest_soil_terrain_diff.dds.4"/>
+  <File path="forest_soil_terrain_diff.dds.5"/>
+  <File path="forest_soil_terrain_diff.dds.6"/>
+  <File path="forest_soil_terrain_diff.dds.7"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>
