@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Texture" guid="612a26fc-3ed0-1972-9894-7b41b5a547a1">
+ <Files>
+  <File path="ground_stones_rough_displ.dds"/>
+  <File path="ground_stones_rough_displ.dds.1"/>
+  <File path="ground_stones_rough_displ.dds.2"/>
+  <File path="ground_stones_rough_displ.dds.3"/>
+  <File path="ground_stones_rough_displ.dds.4"/>
+  <File path="ground_stones_rough_displ.dds.5"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>

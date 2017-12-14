@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Texture" guid="1f4f6ff4-afbe-c9aa-49fa-a8f4358c73e8">
+ <Files>
+  <File path="ground_stones_rough_diff.dds"/>
+  <File path="ground_stones_rough_diff.dds.1"/>
+  <File path="ground_stones_rough_diff.dds.2"/>
+  <File path="ground_stones_rough_diff.dds.3"/>
+  <File path="ground_stones_rough_diff.dds.4"/>
+  <File path="ground_stones_rough_diff.dds.5"/>
+  <File path="ground_stones_rough_diff.dds.6"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>
