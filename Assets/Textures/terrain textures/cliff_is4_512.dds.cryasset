@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Texture" guid="30a01120-b919-6834-ef2a-7186e6f469c7">
+ <Files>
+  <File path="cliff_is4_512.dds"/>
+  <File path="cliff_is4_512.dds.1"/>
+  <File path="cliff_is4_512.dds.2"/>
+  <File path="cliff_is4_512.dds.3"/>
+  <File path="cliff_is4_512.dds.4"/>
+  <File path="cliff_is4_512.dds.5"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>

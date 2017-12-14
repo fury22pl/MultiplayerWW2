@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Texture" guid="e24966bc-31f6-92a8-898c-eb12654738c6">
+ <Files>
+  <File path="sand_dark_yellow.dds"/>
+  <File path="sand_dark_yellow.dds.1"/>
+  <File path="sand_dark_yellow.dds.2"/>
+ </Files>
+ <Details>
+  <Detail name="width">64</Detail>
+  <Detail name="height">64</Detail>
+  <Detail name="mipCount">5</Detail>
+ </Details>
+</AssetMetadata>

@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Texture" guid="7b760cb3-19bf-6ba2-92e5-b43a9e301981">
+ <Files>
+  <File path="road_concrete.dds"/>
+  <File path="road_concrete.dds.1"/>
+  <File path="road_concrete.dds.2"/>
+  <File path="road_concrete.dds.3"/>
+ </Files>
+ <Details>
+  <Detail name="width">128</Detail>
+  <Detail name="height">128</Detail>
+  <Detail name="mipCount">6</Detail>
+ </Details>
+</AssetMetadata>

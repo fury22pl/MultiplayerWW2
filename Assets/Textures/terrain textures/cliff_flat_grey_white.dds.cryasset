@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Texture" guid="177b3d81-8232-f0a2-5f27-dc9957b21856">
+ <Files>
+  <File path="cliff_flat_grey_white.dds"/>
+  <File path="cliff_flat_grey_white.dds.1"/>
+  <File path="cliff_flat_grey_white.dds.2"/>
+  <File path="cliff_flat_grey_white.dds.3"/>
+  <File path="cliff_flat_grey_white.dds.4"/>
+ </Files>
+ <Details>
+  <Detail name="width">256</Detail>
+  <Detail name="height">256</Detail>
+  <Detail name="mipCount">7</Detail>
+ </Details>
+</AssetMetadata>

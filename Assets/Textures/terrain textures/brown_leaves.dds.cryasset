@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Texture" guid="f4a004c1-aad2-4fe9-ed7c-a860b8ad30af">
+ <Files>
+  <File path="brown_leaves.dds"/>
+  <File path="brown_leaves.dds.1"/>
+  <File path="brown_leaves.dds.2"/>
+  <File path="brown_leaves.dds.3"/>
+ </Files>
+ <Details>
+  <Detail name="width">128</Detail>
+  <Detail name="height">128</Detail>
+  <Detail name="mipCount">6</Detail>
+ </Details>
+</AssetMetadata>

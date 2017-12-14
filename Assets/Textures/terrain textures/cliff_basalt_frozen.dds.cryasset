@@ -1,0 +1,13 @@
+<AssetMetadata version="0" type="Texture" guid="4fc30fc8-2459-5825-9afc-3707fc5c6942">
+ <Files>
+  <File path="cliff_basalt_frozen.dds"/>
+  <File path="cliff_basalt_frozen.dds.1"/>
+  <File path="cliff_basalt_frozen.dds.2"/>
+  <File path="cliff_basalt_frozen.dds.3"/>
+ </Files>
+ <Details>
+  <Detail name="width">128</Detail>
+  <Detail name="height">128</Detail>
+  <Detail name="mipCount">6</Detail>
+ </Details>
+</AssetMetadata>
