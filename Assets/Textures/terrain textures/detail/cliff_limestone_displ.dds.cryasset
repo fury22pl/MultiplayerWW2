@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Texture" guid="36fe5dc3-08e6-9ce0-c846-f0be5fbe82b0">
+ <Files>
+  <File path="cliff_limestone_displ.dds"/>
+  <File path="cliff_limestone_displ.dds.1"/>
+  <File path="cliff_limestone_displ.dds.2"/>
+  <File path="cliff_limestone_displ.dds.3"/>
+  <File path="cliff_limestone_displ.dds.4"/>
+  <File path="cliff_limestone_displ.dds.5"/>
+  <File path="cliff_limestone_displ.dds.6"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>

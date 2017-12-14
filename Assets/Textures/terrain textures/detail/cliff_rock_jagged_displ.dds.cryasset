@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Texture" guid="f3976510-1f30-ca0f-b167-e73f6dcf602d">
+ <Files>
+  <File path="cliff_rock_jagged_displ.dds"/>
+  <File path="cliff_rock_jagged_displ.dds.1"/>
+  <File path="cliff_rock_jagged_displ.dds.2"/>
+  <File path="cliff_rock_jagged_displ.dds.3"/>
+  <File path="cliff_rock_jagged_displ.dds.4"/>
+  <File path="cliff_rock_jagged_displ.dds.5"/>
+  <File path="cliff_rock_jagged_displ.dds.6"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>
